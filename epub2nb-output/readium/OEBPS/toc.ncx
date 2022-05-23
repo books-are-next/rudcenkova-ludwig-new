@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="cdfca6b8-c1f4-4196-85a0-eaad1cc9194a"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Ludwig</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>LUDWIG</text>
+      </navLabel>
+      <content src="Text/ludwig_005.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Vím, kde</text>
+        </navLabel>
+        <content src="Text/ludwig_006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Hříchy</text>
+        </navLabel>
+        <content src="Text/ludwig_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Ludwig</text>
+        </navLabel>
+        <content src="Text/ludwig_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Hlavní postavy</text>
+        </navLabel>
+        <content src="Text/ludwig_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Wesele pulsuje</text>
+        </navLabel>
+        <content src="Text/ludwig_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Strašně líný Ludwig</text>
+        </navLabel>
+        <content src="Text/ludwig_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>A půjdeme</text>
+        </navLabel>
+        <content src="Text/ludwig_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Zdá se</text>
+        </navLabel>
+        <content src="Text/ludwig_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>A oči zavřít</text>
+        </navLabel>
+        <content src="Text/ludwig_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Thea</text>
+        </navLabel>
+        <content src="Text/ludwig_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Tam, kde jsme spali včera</text>
+        </navLabel>
+        <content src="Text/ludwig_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Thombern</text>
+        </navLabel>
+        <content src="Text/ludwig_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Čtenář Thomase Bernharda</text>
+        </navLabel>
+        <content src="Text/ludwig_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Teď</text>
+        </navLabel>
+        <content src="Text/ludwig_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Ještě brzy</text>
+        </navLabel>
+        <content src="Text/ludwig_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Píseň, kterou zpívá Ludwigovi jeho sestra Ritter</text>
+        </navLabel>
+        <content src="Text/ludwig_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Strach</text>
+        </navLabel>
+        <content src="Text/ludwig_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Jako by vedle…</text>
+        </navLabel>
+        <content src="Text/ludwig_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Ludwig posté</text>
+        </navLabel>
+        <content src="Text/ludwig_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Píseň, kterou zpívá Ludwigovi smrt</text>
+        </navLabel>
+        <content src="Text/ludwig_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Je po všem</text>
+        </navLabel>
+        <content src="Text/ludwig_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Elegie usmíření</text>
+        </navLabel>
+        <content src="Text/ludwig_027.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>ZJEVY</text>
+      </navLabel>
+      <content src="Text/ludwig_028.html"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Setkání 3.3.97</text>
+        </navLabel>
+        <content src="Text/ludwig_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>(Ta žena má příliš velká ústa)</text>
+        </navLabel>
+        <content src="Text/ludwig_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Okamžik</text>
+        </navLabel>
+        <content src="Text/ludwig_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Po večeři</text>
+        </navLabel>
+        <content src="Text/ludwig_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Jitro</text>
+        </navLabel>
+        <content src="Text/ludwig_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Noční show</text>
+        </navLabel>
+        <content src="Text/ludwig_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Žolík</text>
+        </navLabel>
+        <content src="Text/ludwig_035.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>UBLEDLÁ</text>
+      </navLabel>
+      <content src="Text/ludwig_036.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Ústřičná</text>
+        </navLabel>
+        <content src="Text/ludwig_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Sémě</text>
+        </navLabel>
+        <content src="Text/ludwig_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Svitky</text>
+        </navLabel>
+        <content src="Text/ludwig_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Jezero</text>
+        </navLabel>
+        <content src="Text/ludwig_040.html"/>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/ludwig_040.html#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/ludwig_041.html"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/ludwig_042.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Pocta Sfinze</text>
+        </navLabel>
+        <content src="Text/ludwig_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Bérénice Abbott</text>
+        </navLabel>
+        <content src="Text/ludwig_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>(Za ledovým sklem padají osamělé vločky)</text>
+        </navLabel>
+        <content src="Text/ludwig_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Rybí blues</text>
+        </navLabel>
+        <content src="Text/ludwig_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Sfinga</text>
+        </navLabel>
+        <content src="Text/ludwig_047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Studny</text>
+        </navLabel>
+        <content src="Text/ludwig_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Jsi černá</text>
+        </navLabel>
+        <content src="Text/ludwig_049.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>HAIKU</text>
+      </navLabel>
+      <content src="Text/ludwig_050.html"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>(Ode dna šálku)</text>
+        </navLabel>
+        <content src="Text/ludwig_051.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>(Blíží se večer)</text>
+        </navLabel>
+        <content src="Text/ludwig_052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>(Vlak duní nocí)</text>
+        </navLabel>
+        <content src="Text/ludwig_053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Milostné haiku</text>
+        </navLabel>
+        <content src="Text/ludwig_054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Kuřácké haiku</text>
+        </navLabel>
+        <content src="Text/ludwig_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>(Sotva si ještě)</text>
+        </navLabel>
+        <content src="Text/ludwig_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>(V cinkotu číší)</text>
+        </navLabel>
+        <content src="Text/ludwig_057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Zimní haiku</text>
+        </navLabel>
+        <content src="Text/ludwig_058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Haiku k podpírání</text>
+        </navLabel>
+        <content src="Text/ludwig_059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>(Zestárlý a sám)</text>
+        </navLabel>
+        <content src="Text/ludwig_060.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Porozechvělý</text>
+        </navLabel>
+        <content src="Text/ludwig_061.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>(Tak naposledy)</text>
+        </navLabel>
+        <content src="Text/ludwig_062.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>BŘEH</text>
+      </navLabel>
+      <content src="Text/ludwig_063.html"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>(Bojím se že nikdo nepřijde a nezazvoní)</text>
+        </navLabel>
+        <content src="Text/ludwig_064.html"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>(Trhavě sune se jako vlk sněhem)</text>
+        </navLabel>
+        <content src="Text/ludwig_065.html"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Mračna</text>
+        </navLabel>
+        <content src="Text/ludwig_066.html"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>(Je léto)</text>
+        </navLabel>
+        <content src="Text/ludwig_067.html"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>(Na břehu pod nímž se odrazy těl)</text>
+        </navLabel>
+        <content src="Text/ludwig_068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Pozvolna</text>
+        </navLabel>
+        <content src="Text/ludwig_069.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Z ÚSTRANÍ DO ZÁVĚTŘÍ</text>
+      </navLabel>
+      <content src="Text/ludwig_070.html"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Hrob</text>
+        </navLabel>
+        <content src="Text/ludwig_071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Cirk</text>
+        </navLabel>
+        <content src="Text/ludwig_072.html"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Podzim</text>
+        </navLabel>
+        <content src="Text/ludwig_073.html"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Z města</text>
+        </navLabel>
+        <content src="Text/ludwig_074.html"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Se studem</text>
+        </navLabel>
+        <content src="Text/ludwig_075.html"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>(Vychází slunce maje pod očima skoby)</text>
+        </navLabel>
+        <content src="Text/ludwig_076.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

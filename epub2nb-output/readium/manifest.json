@@ -1,0 +1,662 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ludwig",
+    "identifier": "cdfca6b8-c1f4-4196-85a0-eaad1cc9194a",
+    "author": "Kateřina Rudčenková",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-01-30T00:00:00.000Z",
+    "published": "2019-01-30T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_051.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_052.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_053.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_054.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_055.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_056.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_057.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_058.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_059.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_060.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_061.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_062.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_063.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_064.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_065.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_066.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_067.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_068.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_069.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_070.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_071.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_072.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_073.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_074.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_075.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_076.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ludwig_077.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "LUDWIG",
+      "children": [
+        {
+          "title": "Vím, kde",
+          "href": "OEBPS/Text/ludwig_006.html"
+        },
+        {
+          "title": "Hříchy",
+          "href": "OEBPS/Text/ludwig_007.html"
+        },
+        {
+          "title": "Ludwig",
+          "href": "OEBPS/Text/ludwig_008.html"
+        },
+        {
+          "title": "Hlavní postavy",
+          "href": "OEBPS/Text/ludwig_009.html"
+        },
+        {
+          "title": "Wesele pulsuje",
+          "href": "OEBPS/Text/ludwig_010.html"
+        },
+        {
+          "title": "Strašně líný Ludwig",
+          "href": "OEBPS/Text/ludwig_011.html"
+        },
+        {
+          "title": "A půjdeme",
+          "href": "OEBPS/Text/ludwig_012.html"
+        },
+        {
+          "title": "Zdá se",
+          "href": "OEBPS/Text/ludwig_013.html"
+        },
+        {
+          "title": "A oči zavřít",
+          "href": "OEBPS/Text/ludwig_014.html"
+        },
+        {
+          "title": "Thea",
+          "href": "OEBPS/Text/ludwig_015.html"
+        },
+        {
+          "title": "Tam, kde jsme spali včera",
+          "href": "OEBPS/Text/ludwig_016.html"
+        },
+        {
+          "title": "Thombern",
+          "href": "OEBPS/Text/ludwig_017.html"
+        },
+        {
+          "title": "Čtenář Thomase Bernharda",
+          "href": "OEBPS/Text/ludwig_018.html"
+        },
+        {
+          "title": "Teď",
+          "href": "OEBPS/Text/ludwig_019.html"
+        },
+        {
+          "title": "Ještě brzy",
+          "href": "OEBPS/Text/ludwig_020.html"
+        },
+        {
+          "title": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
+          "href": "OEBPS/Text/ludwig_021.html"
+        },
+        {
+          "title": "Strach",
+          "href": "OEBPS/Text/ludwig_022.html"
+        },
+        {
+          "title": "Jako by vedle…",
+          "href": "OEBPS/Text/ludwig_023.html"
+        },
+        {
+          "title": "Ludwig posté",
+          "href": "OEBPS/Text/ludwig_024.html"
+        },
+        {
+          "title": "Píseň, kterou zpívá Ludwigovi smrt",
+          "href": "OEBPS/Text/ludwig_025.html"
+        },
+        {
+          "title": "Je po všem",
+          "href": "OEBPS/Text/ludwig_026.html"
+        },
+        {
+          "title": "Elegie usmíření",
+          "href": "OEBPS/Text/ludwig_027.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_005.html"
+    },
+    {
+      "title": "ZJEVY",
+      "children": [
+        {
+          "title": "Setkání 3.3.97",
+          "href": "OEBPS/Text/ludwig_029.html"
+        },
+        {
+          "title": "(Ta žena má příliš velká ústa)",
+          "href": "OEBPS/Text/ludwig_030.html"
+        },
+        {
+          "title": "Okamžik",
+          "href": "OEBPS/Text/ludwig_031.html"
+        },
+        {
+          "title": "Po večeři",
+          "href": "OEBPS/Text/ludwig_032.html"
+        },
+        {
+          "title": "Jitro",
+          "href": "OEBPS/Text/ludwig_033.html"
+        },
+        {
+          "title": "Noční show",
+          "href": "OEBPS/Text/ludwig_034.html"
+        },
+        {
+          "title": "Žolík",
+          "href": "OEBPS/Text/ludwig_035.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_028.html"
+    },
+    {
+      "title": "UBLEDLÁ",
+      "children": [
+        {
+          "title": "Ústřičná",
+          "href": "OEBPS/Text/ludwig_037.html"
+        },
+        {
+          "title": "Sémě",
+          "href": "OEBPS/Text/ludwig_038.html"
+        },
+        {
+          "title": "Svitky",
+          "href": "OEBPS/Text/ludwig_039.html"
+        },
+        {
+          "title": "Jezero",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/ludwig_040.html#sigil_toc_id_1"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/ludwig_041.html"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/ludwig_042.html"
+            }
+          ],
+          "href": "OEBPS/Text/ludwig_040.html"
+        },
+        {
+          "title": "Pocta Sfinze",
+          "href": "OEBPS/Text/ludwig_043.html"
+        },
+        {
+          "title": "Bérénice Abbott",
+          "href": "OEBPS/Text/ludwig_044.html"
+        },
+        {
+          "title": "(Za ledovým sklem padají osamělé vločky)",
+          "href": "OEBPS/Text/ludwig_045.html"
+        },
+        {
+          "title": "Rybí blues",
+          "href": "OEBPS/Text/ludwig_046.html"
+        },
+        {
+          "title": "Sfinga",
+          "href": "OEBPS/Text/ludwig_047.html"
+        },
+        {
+          "title": "Studny",
+          "href": "OEBPS/Text/ludwig_048.html"
+        },
+        {
+          "title": "Jsi černá",
+          "href": "OEBPS/Text/ludwig_049.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_036.html"
+    },
+    {
+      "title": "HAIKU",
+      "children": [
+        {
+          "title": "(Ode dna šálku)",
+          "href": "OEBPS/Text/ludwig_051.html"
+        },
+        {
+          "title": "(Blíží se večer)",
+          "href": "OEBPS/Text/ludwig_052.html"
+        },
+        {
+          "title": "(Vlak duní nocí)",
+          "href": "OEBPS/Text/ludwig_053.html"
+        },
+        {
+          "title": "Milostné haiku",
+          "href": "OEBPS/Text/ludwig_054.html"
+        },
+        {
+          "title": "Kuřácké haiku",
+          "href": "OEBPS/Text/ludwig_055.html"
+        },
+        {
+          "title": "(Sotva si ještě)",
+          "href": "OEBPS/Text/ludwig_056.html"
+        },
+        {
+          "title": "(V cinkotu číší)",
+          "href": "OEBPS/Text/ludwig_057.html"
+        },
+        {
+          "title": "Zimní haiku",
+          "href": "OEBPS/Text/ludwig_058.html"
+        },
+        {
+          "title": "Haiku k podpírání",
+          "href": "OEBPS/Text/ludwig_059.html"
+        },
+        {
+          "title": "(Zestárlý a sám)",
+          "href": "OEBPS/Text/ludwig_060.html"
+        },
+        {
+          "title": "Porozechvělý",
+          "href": "OEBPS/Text/ludwig_061.html"
+        },
+        {
+          "title": "(Tak naposledy)",
+          "href": "OEBPS/Text/ludwig_062.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_050.html"
+    },
+    {
+      "title": "BŘEH",
+      "children": [
+        {
+          "title": "(Bojím se že nikdo nepřijde a nezazvoní)",
+          "href": "OEBPS/Text/ludwig_064.html"
+        },
+        {
+          "title": "(Trhavě sune se jako vlk sněhem)",
+          "href": "OEBPS/Text/ludwig_065.html"
+        },
+        {
+          "title": "Mračna",
+          "href": "OEBPS/Text/ludwig_066.html"
+        },
+        {
+          "title": "(Je léto)",
+          "href": "OEBPS/Text/ludwig_067.html"
+        },
+        {
+          "title": "(Na břehu pod nímž se odrazy těl)",
+          "href": "OEBPS/Text/ludwig_068.html"
+        },
+        {
+          "title": "Pozvolna",
+          "href": "OEBPS/Text/ludwig_069.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_063.html"
+    },
+    {
+      "title": "Z ÚSTRANÍ DO ZÁVĚTŘÍ",
+      "children": [
+        {
+          "title": "Hrob",
+          "href": "OEBPS/Text/ludwig_071.html"
+        },
+        {
+          "title": "Cirk",
+          "href": "OEBPS/Text/ludwig_072.html"
+        },
+        {
+          "title": "Podzim",
+          "href": "OEBPS/Text/ludwig_073.html"
+        },
+        {
+          "title": "Z města",
+          "href": "OEBPS/Text/ludwig_074.html"
+        },
+        {
+          "title": "Se studem",
+          "href": "OEBPS/Text/ludwig_075.html"
+        },
+        {
+          "title": "(Vychází slunce maje pod očima skoby)",
+          "href": "OEBPS/Text/ludwig_076.html"
+        }
+      ],
+      "href": "OEBPS/Text/ludwig_070.html"
+    }
+  ]
+}
