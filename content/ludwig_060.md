@@ -1,9 +1,8 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Zestárlý a sám  
+_Zestárlý a sám  
 jdu po břehu plném  
-omletého písku.
+omletého písku._

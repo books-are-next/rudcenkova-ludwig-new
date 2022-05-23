@@ -1,10 +1,9 @@
 ---
+title: Pocta Sfinze
 contentType: prose
 ---
 
-## Pocta Sfinze
-
-A odkud — zhloubi? —  
+_A odkud — _zhloubi?_ —  
 zaznívají trylky rozjívených  
 trolů. Ach vniknout do  
 těch znetvořených stehen.  
@@ -13,6 +12,6 @@ Ukřivdění.
 (To proto kulháš před chromými?)  
 Neznám tvé jméno.  
 Znám jenom prsy od pohledu  
-a někde v hloubi tebe tušit  
+a někde _v hloubi_ tebe tušit  
 zlověstný přetrpký  
-nakažený klín.
+nakažený klín._

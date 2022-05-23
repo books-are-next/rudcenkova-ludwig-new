@@ -1,31 +1,30 @@
 ---
+title: Po večeři
 contentType: prose
 ---
 
-## Po večeři
-
-Po večeři se hosté rozešli  
+_Po večeři se hosté rozešli  
 tlustí se odvalili pozlacení odtekli  
 jeden tu sklesle sedí  
-číšníci odnášejí přebytečné židle
+číšníci odnášejí přebytečné židle_
 
-sklízí se ze stolu  
-strhávají se potřísněné ubrusy
+_sklízí se ze stolu  
+strhávají se potřísněné ubrusy_
 
-Pod stolem odhalil zapletené  
-nohy svého přítele a své milé
+_Pod stolem odhalil zapletené  
+nohy svého přítele a své milé_
 
-přemítá nad leskem vidličky  
-a nože
+_přemítá nad leskem vidličky  
+a nože_
 
-palcem přejíždí po jejích hrotech  
-a jeho vrubech
+_palcem přejíždí po jejích hrotech  
+a jeho vrubech_
 
-zpoza klavíru se ozývají výkřiky  
+_zpoza klavíru se ozývají výkřiky  
 zamyšleně hladí  
-jeho nehybnou srst
+jeho nehybnou srst_
 
-leklou  
+_leklou  
 u hubičky s pěnou  
 svou milenku v tůni mihnout se uvidí  
-rybku do úst vkládá její růžové propečené maso
+rybku do úst vkládá její růžové propečené maso_

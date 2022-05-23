@@ -1,22 +1,21 @@
 ---
+title: Strašně líný Ludwig
 contentType: prose
 ---
 
-## Strašně líný Ludwig
-
-Smrchule bledá se roztřásla nevděkem  
+_Smrchule bledá se roztřásla nevděkem  
 vzteká se že se po ní hnedle nevrhám  
 černá je zbaběle točí se ke mně zády  
 čeká snad že ji napadnu zezadu že ji zchlamstnu  
 že ji sevřu nepustím rozmačkám znásilním  
-že se jí zadrápnu do zad či do ňader
+že se jí zadrápnu do zad či do ňader_
 
-Ale kdo by se bál  
-vždyť jsem již stár
+_Ale kdo by se bál  
+vždyť jsem již stár_
 
-Jen ať se otočí ať najde si jinocha jinačího  
+_Jen ať se otočí ať najde si jinocha jinačího  
 Já lenoch dýmku v křesle si rozdmýchám  
 kávu usrknu  
 z lógru si vyvěstím pokojnou tichou smrt  
 pokojnou nehybnou ženu na úklid  
-mých nahlodaných kostí
+mých nahlodaných kostí_

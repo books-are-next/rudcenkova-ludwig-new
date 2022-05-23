@@ -1,13 +1,12 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Je léto  
+_Je léto  
 z chodníků stoupá dusný pach  
-vysychajících hoven
+vysychajících hoven_
 
-vlní se kůže svraštělých loktů
+_vlní se kůže svraštělých loktů_
 
-bojím se umřít
+_bojím se umřít_

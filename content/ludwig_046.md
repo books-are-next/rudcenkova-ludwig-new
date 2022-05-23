@@ -1,41 +1,40 @@
 ---
+title: Rybí blues
 contentType: prose
 ---
 
-## Rybí blues
-
-Sedím pod stromem  
+_Sedím pod stromem  
 čekám na tebe  
-nejdeš
+nejdeš_
 
-to je celé  
+_to je celé  
 zastřelím se  
-to je celé
+to je celé_
 
-přicházíš pozdě  
+_přicházíš pozdě  
 vždycky pozdě jsi s hlavou rozkvetlou  
 střapce které ti visí od uší až do vody  
 jako návnady jako pruty a jejich vlasce  
 ty rybo v ruce neposečkáš prosmekneš se uhneš  
 se slizkou kůží nelze chodit ani spát  
-chladí a čpí nic neznamená
+chladí a čpí nic neznamená_
 
-ano přicházíš  
+_ano přicházíš  
 ale pozdě ještěs posečkala  
 na vrbě sedíš díváš se jak si upižlávám hlavu  
 to je celé  
 to je celé  
 k tvé radosti smrt  
-tvé neposedné odtažité ty rybo
+tvé neposedné odtažité ty rybo_
 
-a ty se díváš  
+_a ty se díváš  
 oči si můžeš vyboulit smutné podívání  
 smutná nálada každého konce  
 a ty si můžeš vyboulit oči  
 a šupiny si můžeš odprejskat jak jsi celá  
 namáčknutá k břehu abys zahlédla  
-můj skon skok do vířících hlubin
+můj skon skok do vířících hlubin_
 
-osmažím sním tě rybo rozřezaná k smíchu  
+_osmažím sním tě rybo rozřezaná k smíchu  
 to je celé  
-to je celé
+to je celé_

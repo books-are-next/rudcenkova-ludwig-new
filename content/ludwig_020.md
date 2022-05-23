@@ -1,18 +1,17 @@
 ---
+title: Ještě brzy
 contentType: prose
 ---
 
-## Ještě brzy
-
-Neponechán  
+_Neponechán  
 přichází ve snu  
-dosud nepřislíben
+dosud nepřislíben_
 
-Již se nebudou opakovati tyto verše  
-Již nerozemne mezi prsty vlas
+_Již se nebudou opakovati tyto verše  
+Již nerozemne mezi prsty vlas_
 
-Zabořen hřívou uzříti  
-smýká se domů vznítiti se
+_Zabořen hřívou uzříti  
+smýká se domů vznítiti se_
 
-Dnes ne  
-Dnes ještě brzy je
+_Dnes ne  
+Dnes ještě brzy je_

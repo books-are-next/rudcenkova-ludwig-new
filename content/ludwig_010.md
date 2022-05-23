@@ -1,10 +1,9 @@
 ---
+title: Wesele pulsuje
 contentType: prose
 ---
 
-## Wesele pulsuje
-
-Tanec. Těla, tu zneuctěná, tu znuděná.  
+_Tanec. Těla, tu zneuctěná, tu znuděná.  
 Zaklapne víko, zachrastí řetězy,  
 zachrastí kosti k večeři. Jsme sami, hledáme se,  
 ohlodáváme.  
@@ -13,4 +12,4 @@ Bliká. Bliká se na časy do rakví. Jsme sami.
 Mezi příčkami hlava a mezi zuby vlasy.  
 Touto cestou, posléze vpravo. Šaty splihlé  
 a mouchy ulepené. Nenajít se.  
-Hlasy: „Zase ne?“ „Ne.“
+Hlasy: „Zase ne?“ „Ne.“_

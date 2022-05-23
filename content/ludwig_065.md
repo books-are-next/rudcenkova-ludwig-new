@@ -1,20 +1,19 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Trhavě sune se jako vlk sněhem  
+_Trhavě sune se jako vlk sněhem  
 to co mě zatěžuje  
 je mnou zatěžkáno  
 a kdykoli shlížím na město  
 vždy tentýž stařec tamtéž  
-tiskne ruce rybám
+tiskne ruce rybám_
 
-příliš vzdáleno  
-skutečným prožitkům
+_příliš vzdáleno  
+skutečným prožitkům_
 
-bojím se, že už nic nenapíšu  
+_bojím se, že už nic nenapíšu  
 že se odplavím  
 s jarním sněhem  
-do šeptavých údolí
+do šeptavých údolí_

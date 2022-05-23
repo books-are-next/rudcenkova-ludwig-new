@@ -1,15 +1,14 @@
 ---
+title: Mračna
 contentType: prose
 ---
 
-## Mračna
+_A kolik havranů se zjeví nad náspem u dálnice  
+tolik let že potrvá můj život?_
 
-A kolik havranů se zjeví nad náspem u dálnice  
-tolik let že potrvá můj život?
-
-Zahlídnu jich sedm  
+_Zahlídnu jich sedm  
 a záblesk slastné trýzně  
-prokmitne mi hlavou
+prokmitne mi hlavou_
 
-Leč další a další hustá mračna  
-řinula se nad obzorem
+_Leč další a další hustá mračna  
+řinula se nad obzorem_

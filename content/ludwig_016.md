@@ -1,17 +1,16 @@
 ---
+title: Tam, kde jsme spali včera
 contentType: prose
 ---
 
-## Tam, kde jsme spali včera
+_Tam, kde jsme spali včera  
+uléháme dneska znovu_
 
-Tam, kde jsme spali včera  
-uléháme dneska znovu
+_Ještě si před usnutím  
+vykouřit doutník osvědčené značky_
 
-Ještě si před usnutím  
-vykouřit doutník osvědčené značky
+_zaplnit pokoj kouřem  
+nevidět na sebe nemluvit spolu_
 
-zaplnit pokoj kouřem  
-nevidět na sebe nemluvit spolu
-
-nechat si zdát o jiném místě  
-s jiným doutníkem a s jiným tělem
+_nechat si zdát o jiném místě  
+s jiným doutníkem a s jiným tělem_

@@ -1,22 +1,21 @@
 ---
+title: Cirk
 contentType: prose
 ---
 
-## Cirk
-
-Opřen o hrdlo  
+_Opřen o hrdlo  
 tančí na holi  
-tanec o hadru
+tanec o hadru_
 
-Poplácávat po zadcích  
+_Poplácávat po zadcích  
 bílé jezdce  
 a černé koně štvát  
-v nedožerném kruhu
+v nedožerném kruhu_
 
-Tak lvi pořvávají  
+_Tak lvi pořvávají  
 tak z hořících obručí  
-vyskakují zubři
+vyskakují zubři_
 
-A v kleci ještě  
+_A v kleci ještě  
 čeká na svůj výstup  
-herec
+herec_

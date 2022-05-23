@@ -1,23 +1,22 @@
 ---
+title: Čtenář Thomase Bernharda
 contentType: prose
 ---
 
-## Čtenář Thomase Bernharda
+_(Hra Minetti)_
 
-(Hra Minetti)
-
-Maska na hlavě / a punčochy na nohách  
+__Maska na hlavě / a punčochy na nohách_  
 (zasměje se Dáma)  
-a když to nefunguje / pak ještě jednu láhev
+_a když to nefunguje / pak ještě jednu láhev__
 
-Zvoní telefon.  
+_Zvoní telefon.  
 Volá Zina — druhá žena mého otce.  
-Zoufale opilá.
+Zoufale opilá._
 
-Plete se jí jazyk. Neodpovídám.  
-Tak mi to odpusť, řekne.
+_Plete se jí jazyk. Neodpovídám.  
+_Tak mi to odpusť_, řekne._
 
-Dáma prochází kolem, nese si na podnose  
-dvě láhve šampaňského.
+_Dáma prochází kolem, nese si na podnose  
+dvě láhve šampaňského._
 
-Zina zavěsí a v pokoji je opět ticho.
+_Zina zavěsí a v pokoji je opět ticho._

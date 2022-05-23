@@ -1,19 +1,18 @@
 ---
+title: Thea
 contentType: prose
 ---
 
-## Thea
-
-Thea nám přinesla čaj  
+_Thea nám přinesla čaj  
 vyměnila popelník na stole  
-za křišťálový
+za křišťálový_
 
-Velká potřeba komunikace  
+_Velká potřeba komunikace  
 Nepřehledná společnost  
-I would like to meet you  
-about four
+_I would like to meet you  
+about four__
 
-Kdosi o tichu  
+_Kdosi o tichu  
 Kdosi o samotě žvaní  
 Nikdo o tom doopravdy nic neví  
-Toto je ticho Toto je samota
+Toto je ticho Toto je samota_

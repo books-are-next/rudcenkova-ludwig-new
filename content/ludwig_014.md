@@ -1,26 +1,25 @@
 ---
+title: A oči zavřít
 contentType: prose
 ---
 
-## A oči zavřít
-
-Museli jsme nejprv dlouho čekat,  
+_Museli jsme nejprv dlouho čekat,  
 než přišla úleva, ať už jakákoli,  
 zda zákaz či rozladění,  
-vzplanutí či smrt
+vzplanutí či smrt_
 
-Museli jsme myslet na to, co nebylo,  
-být ve snech s těmi, kdož nám zmizeli
+_Museli jsme myslet na to, co nebylo,  
+být ve snech s těmi, kdož nám zmizeli_
 
-Museli jsme dlouho tiše sedět  
+_Museli jsme dlouho tiše sedět  
 a myslet na zrcadla nad námi  
-jaké as odrazy v nich stojí
+jaké as odrazy v nich stojí_
 
-Museli jsme mlčet,  
+_Museli jsme mlčet,  
 museli jsme promluvit, když nebylo co říct  
-a oči zavřít když nejvíce se chtělo zírat
+a oči zavřít když nejvíce se chtělo zírat_
 
-na stromy na stráni na hnízda much  
-na lejna svinutá a hady zasyknuvší
+_na stromy na stráni na hnízda much  
+na lejna svinutá a hady zasyknuvší_
 
-když nejvíce se chtělo mluvit.
+_když nejvíce se chtělo mluvit._

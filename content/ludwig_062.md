@@ -1,9 +1,8 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Tak naposledy  
+_Tak naposledy  
 si zakouřím v koruně  
-olivovníku.
+olivovníku._

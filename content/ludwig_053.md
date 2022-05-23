@@ -1,9 +1,8 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Vlak duní nocí  
+_Vlak duní nocí  
 dva zadumaní páni  
-v něm hraji dámu
+v něm hraji dámu_

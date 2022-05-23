@@ -1,20 +1,19 @@
 ---
+title: Ludwig
 contentType: prose
 ---
 
-## Ludwig
+_Vše je načichlé kouřem._
 
-Vše je načichlé kouřem.
+_Muž prorostlý  
+masem a vousy a slovy a slávou a přeludy._
 
-Muž prorostlý  
-masem a vousy a slovy a slávou a přeludy.
+_Jako dým stlačený v kmenech stromů  
+těkavost ve větvích._
 
-Jako dým stlačený v kmenech stromů  
-těkavost ve větvích.
-
-Ludwig tu chybí  
+_Ludwig tu chybí  
 na dvoře doráží tma do dveří  
 okna se sypou  
 z kamenných zdí lomu  
 zní chrchlání a chrapot  
-dotírajícího stáří.
+dotírajícího stáří._

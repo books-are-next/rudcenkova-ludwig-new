@@ -1,37 +1,36 @@
 ---
+title: Noční show
 contentType: prose
 ---
 
-## Noční show
-
-Jsem bez nohou a sedím za komínem  
+_Jsem bez nohou a sedím za komínem  
 (navštivte mne)  
 Mé nohy za mnou v noci chodí  
 zchladit si chodidla ve studené vodě  
-(uvízlé v okapu)
+(uvízlé v okapu)_
 
-Ohmatávám berlu.  
+_Ohmatávám berlu.  
 Je slepecká či k podpírání?  
-Nevidím na ni.
+Nevidím na ni._
 
-Je průzračná a rozplývá se v ústech  
+_Je průzračná a rozplývá se v ústech  
 na hlavě řídké vlasy  
-zakrývají směšný výrůstek.
+zakrývají směšný výrůstek._
 
-Měsíc stéká se střech  
+_Měsíc stéká se střech  
 bílé kapky se chvějí  
-na okenních rámech.
+na okenních rámech._
 
-S berlou bez nohou a slepý  
+_S berlou bez nohou a slepý  
 tj. odstrkovat se a válet sudy  
 po kluzkých taškách  
-stále ještě kamsi do noci
+stále ještě kamsi do noci_
 
-stále pln hořkosti která  
-už už se vylévá a puká
+_stále pln hořkosti která  
+už už se vylévá a puká_
 
-tříští se o chodník  
+_tříští se o chodník  
 a stoupá s ranní mlhou  
-zpátky za komín
+zpátky za komín_
 
-tam dlí
+_tam dlí_

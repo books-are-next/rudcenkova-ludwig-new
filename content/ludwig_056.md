@@ -1,9 +1,8 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Sotva si ještě  
+_Sotva si ještě  
 vzpomeneš, koho jsi znal  
-před čtyřmi lety.
+před čtyřmi lety._

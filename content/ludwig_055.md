@@ -1,9 +1,8 @@
 ---
+title: Kuřácké haiku
 contentType: prose
 ---
 
-## Kuřácké haiku
-
-Život udýmá-  
+_Život udýmá-  
 vá s popelem do klína  
-šedočerných žen.
+šedočerných žen._

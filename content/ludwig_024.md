@@ -1,23 +1,22 @@
 ---
+title: Ludwig posté
 contentType: prose
 ---
 
-## Ludwig posté
-
-Prohlubují se tyto otvory  
+_Prohlubují se tyto otvory  
 a bolí.  
 Zdali se ještě spatříme  
 mezi futry jakých dveří  
-mihnutím v jakém ději
+mihnutím v jakém ději_
 
-Ale ovoce zevnitř shnilé  
+_Ale ovoce zevnitř shnilé  
 v křehkých ulitách  
 se drolí  
 lehkým zavaděním  
-tenhle vyvanulý trik:
+tenhle vyvanulý trik:_
 
-Posté se otočit a odejít  
+_Posté se otočit a odejít  
 po téže replice  
 on — větve sedrané  
 já — listí zdrženlivé k jeho povislé  
-a rozkývané nahotě
+a rozkývané nahotě_

@@ -1,26 +1,25 @@
 ---
+title: Hlavní postavy
 contentType: prose
 ---
 
-## Hlavní postavy
+_Vlaštovky se rozstřikují po nebi  
+hřmí zpoza popelnic_
 
-Vlaštovky se rozstřikují po nebi  
-hřmí zpoza popelnic
+_on, starý herec, a Kateřina  
+— hlavní postavy této hry_
 
-on, starý herec, a Kateřina  
-— hlavní postavy této hry
-
-Stoupáme točitým schodištěm  
+_Stoupáme točitým schodištěm  
 a s námi i všechny klíče  
-a všechny naše svršky a touhy
+a všechny naše svršky a touhy_
 
-jako by se tu mezi zdmi  
-nemačkalo už tak dost tmy
+_jako by se tu mezi zdmi  
+nemačkalo už tak dost tmy_
 
-Světlo se automaticky zhasne  
-reaguje na ticho a kroky
+_Světlo se automaticky zhasne  
+reaguje na ticho a kroky_
 
-V jiné čtvrti u řeky hrají kroket  
-Někdo se ke smrti proťuká palicí
+_V jiné čtvrti u řeky hrají kroket  
+Někdo se ke smrti proťuká palicí_
 
-Nakonec jako by všechno vskutku umlkalo.
+_Nakonec jako by všechno vskutku umlkalo._

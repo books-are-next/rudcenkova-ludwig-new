@@ -1,10 +1,9 @@
 ---
+title: Ústřičná
 contentType: prose
 ---
 
-## Ústřičná
-
-Půlím ústřici  
+_Půlím ústřici  
 její bledé údy se ještě chvějí  
 za nocí  
 ve chvoji pytláci  
@@ -18,4 +17,4 @@ tříštíš se
 na slunci třpytí se tvé střepy  
 namokřelé  
 pojď pojím poobědvám tebou  
-ze rtů nakrvím tě ubledlá
+ze rtů nakrvím tě ubledlá_

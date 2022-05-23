@@ -2,19 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Ludwig
   identifier: cdfca6b8-c1f4-4196-85a0-eaad1cc9194a
   author: Kateřina Rudčenková
   publisher: Městská knihovna v Praze
   modified: '2019-01-30T00:00:00.000Z'
+  publisherShort: mkp
 readingOrder:
   - promo.html
-  - ludwig_001.html
-  - ludwig_002.html
-  - ludwig_003.html
-  - ludwig_004.html
   - ludwig_005.html
   - ludwig_006.html
   - ludwig_007.html
@@ -87,11 +85,12 @@ readingOrder:
   - ludwig_074.html
   - ludwig_075.html
   - ludwig_076.html
-  - ludwig_077.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,9 +1,8 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
-
-Ode dna šálku  
+_Ode dna šálku  
 nelze vylíznout cukr.  
-Můj medvěd slábne.
+Můj medvěd slábne._

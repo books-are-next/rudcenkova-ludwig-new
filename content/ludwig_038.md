@@ -1,24 +1,23 @@
 ---
+title: Sémě
 contentType: prose
 ---
 
-## Sémě
-
-Jdeš zakrýváš si oči  
+_Jdeš zakrýváš si oči  
 nerozpuštěné vlasy  
 tečou po zádech  
 až k soustrojí  
 červených pih  
-na levém stehně
+na levém stehně_
 
-Jsem nití tkaniva tvých šatů  
+_Jsem nití tkaniva tvých šatů  
 tkání jater  
 Co zapíjíš  
-jaké soužení
+jaké soužení_
 
-když tma ti stéká mezi  
+_když tma ti stéká mezi  
 páteřními žlábky  
 jako posté marně vyrosené  
 sémě  
 jako posté nedožitá noc  
-nedomrlých dětí
+nedomrlých dětí_

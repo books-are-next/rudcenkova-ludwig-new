@@ -1,42 +1,41 @@
 ---
+title: Se studem
 contentType: prose
 ---
 
-## Se studem
-
-V tmavé zásuvce  
+_V tmavé zásuvce  
 v ohybech rozlámané  
-verše studenta
+verše studenta_
 
-Vyšla jsem do tmy pršelo
+_Vyšla jsem do tmy pršelo_
 
-     „teď klečím a hlavu bořím do sněhu  
+     _„teď klečím a hlavu bořím do sněhu  
      kde vůně Tvých vlasů  
      stvořila pro mě poslední  
-     noc“
+     noc“_
 
-Jak déšť dopadá  
+_Jak déšť dopadá  
                               napadá mě  
 jestliže tě odteď uvidím  
 odcházet se studem  
 který jsi kdysi odhalil  
 v milostných básních  
 matce  
-naleznu tak klid
+naleznu tak klid_
 
-      „a bude-li mi odpuštěno  
-     pak jak sám sobě odpustím“
+      _„a bude-li mi odpuštěno  
+     pak jak sám sobě odpustím“_
 
-Nebude mi více třeba  
-hledat ho vně sebe
+_Nebude mi více třeba  
+hledat ho vně sebe_
 
-     v hloupém chichotání  
+     _v hloupém chichotání  
      proudů horkých nocí  
      v objetí cizích paží  
      podobně pevných to ano  
      podobně načichlých tabákem  
-     podobně zarostlých v tváři
+     podobně zarostlých v tváři_
 
-ale nikdy takových
+_ale nikdy takových_
 
-otče
+_otče_

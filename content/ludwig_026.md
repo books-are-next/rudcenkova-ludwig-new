@@ -1,22 +1,21 @@
 ---
+title: Je po všem
 contentType: prose
 ---
 
-## Je po všem
+_Zase se přikrádá dávná touha  
+jak horká višeň ze tmy_
 
-Zase se přikrádá dávná touha  
-jak horká višeň ze tmy
+_Když chceme zvýraznit chvíli  
+zpomalíme gesto_
 
-Když chceme zvýraznit chvíli  
-zpomalíme gesto
+_Přijde-li? Vrátí-li se? Ne.  
+Jen sten se láme v zajíkavém tichu._
 
-Přijde-li? Vrátí-li se? Ne.  
-Jen sten se láme v zajíkavém tichu.
-
-Podium které umlkne  
+_Podium které umlkne  
 opona zpráchnivělá  
 v podlaze dřevo rozpukané  
-hlediště vpadlé v zem
+hlediště vpadlé v zem_
 
-Pohledy záchvěvy sterá mihnutí  
-jež nelze přivolat zpátky
+_Pohledy záchvěvy sterá mihnutí  
+jež nelze přivolat zpátky_

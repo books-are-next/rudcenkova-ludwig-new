@@ -1,38 +1,37 @@
 ---
+title: Thombern
 contentType: prose
 ---
 
-## Thombern
+_(Thomas Bernhard v pavilonu Hermann)_
 
-(Thomas Bernhard v pavilonu Hermann)
-
-Jsou zvrstveny  
+_Jsou zvrstveny  
 jako bychom si mohli dovolit  
-zavřít více než dvě oči
+zavřít více než dvě oči_
 
-Dveře poklapávají vichrem zvenčí  
+_Dveře poklapávají vichrem zvenčí  
 nevyléčitelní  
 pacienti s plicní chorobou  
 podlézají rezavá oka v plotě  
 a bloudí po areálu duševně chorých  
-a naopak
+a naopak_
 
-Veverky pobíhají parkem  
+_Veverky pobíhají parkem  
 s odhozenými kapesníky nemocných  
 a jak se stmívá  
 jak únavou všechno temní  
 jsou z nich jen bílé skvrny  
 a z bílých skvrn jen zlatoústé lišky  
 s třpytivými chlupy na podbřišku  
-v podpaží a na zádech
+v podpaží a na zádech_
 
-Bílé sestry zřízenci v bílých fracích  
+_Bílé sestry zřízenci v bílých fracích  
 Paul s ostatními raply zahnáni obušky  
 zpátky do ústavu  
 (Paul je v pavilonu Ludwig)  
 Thomas se v mdlobách skácel již  
-před pavilonem Ernst
+před pavilonem Ernst_
 
-je jaro  
+_je jaro  
 brzy nashledanou  
-na oslavě narozenin strýce Joachima
+na oslavě narozenin strýce Joachima_

@@ -1,10 +1,9 @@
 ---
+title: Jsi černá
 contentType: prose
 ---
 
-## Jsi černá
-
-Jsi černá v hrdle spolklý stín  
+_Jsi černá v hrdle spolklý stín  
 jsi voda v řece rozpáleným tělům  
 máš sedmero proměn  
 sedmero podob které mě omračují  
@@ -47,4 +46,4 @@ ležím uvnitř tebe
 vzývám co bylo  
 co se prosáklo skrz zem  
 zasyklo shořelo a my  
-proč už nejsme spolu!
+proč už nejsme spolu!_

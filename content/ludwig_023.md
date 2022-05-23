@@ -1,18 +1,17 @@
 ---
+title: Jako by vedle…
 contentType: prose
 ---
 
-## Jako by vedle…
+_Už nechci nic  
+a už nic nečekám_
 
-Už nechci nic  
-a už nic nečekám
-
-Kde rozrušený dřív  
+_Kde rozrušený dřív  
 tam nyní jenom prázdně polykám  
-a povzlykávám
+a povzlykávám_
 
-Je smutno prázdnému  
-smutněji lhostejnému k tomu
+_Je smutno prázdnému  
+smutněji lhostejnému k tomu_
 
-Jako by vedle něco hnilo  
-Jako bych žil kdesi vedle sebe
+_Jako by vedle něco hnilo  
+Jako bych žil kdesi vedle sebe_

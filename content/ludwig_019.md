@@ -1,23 +1,22 @@
 ---
+title: Teď
 contentType: prose
 ---
 
-## Teď
+_Nahmátnout ve tmě ňadro ještě teplé  
+rukou ještě ne tak rozechvělou_
 
-Nahmátnout ve tmě ňadro ještě teplé  
-rukou ještě ne tak rozechvělou
-
-Modrá s rusými vlasy smrt omdlévající  
+_Modrá s rusými vlasy smrt omdlévající  
 prolitá svahy prolitá tmou po tvářích. Kudy?  
 Kudy se vydat za ní  
-a kudy od ní pryč
+a kudy od ní pryč_
 
-A tak hledáme jiné přeludy starců  
+_A tak hledáme jiné přeludy starců  
 které nám otce nahradí  
 zpomaleným gestem  
 Jenomže oči. Jenomže smrt  
-ta sedá na ramena odevšad
+ta sedá na ramena odevšad_
 
-a komukoli. Slyšíš to strašné  
+_a komukoli. Slyšíš to strašné  
 usedavé ticho? To se kdosi protahuje  
-škvírou v dveřích: třeskutě touží tě obejmout.
+škvírou v dveřích: třeskutě touží tě obejmout._
