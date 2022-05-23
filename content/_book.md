@@ -1,36 +1,103 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Ludwig
+  identifier: cdfca6b8-c1f4-4196-85a0-eaad1cc9194a
+  author: Kateřina Rudčenková
+  publisher: Městská knihovna v Praze
+  modified: '2019-01-30T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - ludwig_001.html
+  - ludwig_002.html
+  - ludwig_003.html
+  - ludwig_004.html
+  - ludwig_005.html
+  - ludwig_006.html
+  - ludwig_007.html
+  - ludwig_008.html
+  - ludwig_009.html
+  - ludwig_010.html
+  - ludwig_011.html
+  - ludwig_012.html
+  - ludwig_013.html
+  - ludwig_014.html
+  - ludwig_015.html
+  - ludwig_016.html
+  - ludwig_017.html
+  - ludwig_018.html
+  - ludwig_019.html
+  - ludwig_020.html
+  - ludwig_021.html
+  - ludwig_022.html
+  - ludwig_023.html
+  - ludwig_024.html
+  - ludwig_025.html
+  - ludwig_026.html
+  - ludwig_027.html
+  - ludwig_028.html
+  - ludwig_029.html
+  - ludwig_030.html
+  - ludwig_031.html
+  - ludwig_032.html
+  - ludwig_033.html
+  - ludwig_034.html
+  - ludwig_035.html
+  - ludwig_036.html
+  - ludwig_037.html
+  - ludwig_038.html
+  - ludwig_039.html
+  - ludwig_040.html
+  - ludwig_041.html
+  - ludwig_042.html
+  - ludwig_043.html
+  - ludwig_044.html
+  - ludwig_045.html
+  - ludwig_046.html
+  - ludwig_047.html
+  - ludwig_048.html
+  - ludwig_049.html
+  - ludwig_050.html
+  - ludwig_051.html
+  - ludwig_052.html
+  - ludwig_053.html
+  - ludwig_054.html
+  - ludwig_055.html
+  - ludwig_056.html
+  - ludwig_057.html
+  - ludwig_058.html
+  - ludwig_059.html
+  - ludwig_060.html
+  - ludwig_061.html
+  - ludwig_062.html
+  - ludwig_063.html
+  - ludwig_064.html
+  - ludwig_065.html
+  - ludwig_066.html
+  - ludwig_067.html
+  - ludwig_068.html
+  - ludwig_069.html
+  - ludwig_070.html
+  - ludwig_071.html
+  - ludwig_072.html
+  - ludwig_073.html
+  - ludwig_074.html
+  - ludwig_075.html
+  - ludwig_076.html
+  - ludwig_077.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
