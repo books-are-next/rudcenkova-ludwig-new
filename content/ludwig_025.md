@@ -1,25 +1,26 @@
 ---
-title: Píseň, kterou zpívá Ludwigovi smrt
 contentType: prose
 ---
 
-_Přijdeš-li tiše  
+## Píseň, kterou zpívá Ludwigovi smrt
+
+Přijdeš-li tiše  
 přijdeš-li vůbec  
 chci abys přilétl v hejnech  
 v hustých mračnech  
-zahalen do převisů lavin_
+zahalen do převisů lavin
 
-_Přijdeš-li  
+Přijdeš-li  
 chci abys jen bezděčně skanul  
-jako pruh vlasů z okraje lože_
+jako pruh vlasů z okraje lože
 
-_Připluješ-li utemněn v hltanu kytovce  
+Připluješ-li utemněn v hltanu kytovce  
 chci abys náhle se zjevil  
 v prudkém osvětlení  
-jako žíly vyhřezlé z paží_
+jako žíly vyhřezlé z paží
 
-_Chci se schovat  
+Chci se schovat  
 do nestoudného objetí  
 tvých třesoucích se  
 rozpadávajících se  
-svalů_
+svalů

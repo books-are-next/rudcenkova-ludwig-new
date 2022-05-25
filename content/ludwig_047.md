@@ -1,9 +1,10 @@
 ---
-title: Sfinga
 contentType: prose
 ---
 
-_Čočka se válí na zemi mezi popelem  
+## Sfinga
+
+Čočka se válí na zemi mezi popelem  
 „Přeber si to“  
 a kdosi ti připaluje u huby  
 pětapadesátý cigáro. Peníze ušly  
@@ -13,4 +14,4 @@ zpráva, že se zapomnělo
 Klaní se té s nevyléčitelným oparem  
 sám sebe považuje za mimozemšťana  
 — rozmlženi — jediná šance je  
-učinit z nemoci přednost._
+učinit z nemoci přednost.

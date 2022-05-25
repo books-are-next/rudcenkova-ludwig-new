@@ -1,29 +1,30 @@
 ---
-title: Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
 contentType: prose
 ---
 
-_Osleplý či odvážný  
+## Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
+
+Osleplý či odvážný  
 postoupen iluzi.  
 Je ona až skrze mne?  
 Anebo já až v ní?  
-Jsme navzájem a propojeni?_
+Jsme navzájem a propojeni?
 
-_Tušený smysl kdesi ve slovech  
+Tušený smysl kdesi ve slovech  
 která se řinou z očí  
 jako chlemtavci zpoza zavíraných hospod.  
 Jsme netušení. Vychroptění  
-ze žíly stesku po společné smrti._
+ze žíly stesku po společné smrti.
 
-_Ty… tvé bledé prsty  
+Ty… tvé bledé prsty  
 když tisknou rozrušený dech  
-na ňadrech pod mým šatem._
+na ňadrech pod mým šatem.
 
-_Jsi vymyšlený bratr Voss  
+Jsi vymyšlený bratr Voss  
 bos v botách po otci  
 bos bez budoucnosti  
 bos rozrušen a prost  
-veškerých gest a citů._
+veškerých gest a citů.
 
-_Leč stále ještě živá  
-vzpomínka na kroužení kolem Glossopu._
+Leč stále ještě živá  
+vzpomínka na kroužení kolem Glossopu.

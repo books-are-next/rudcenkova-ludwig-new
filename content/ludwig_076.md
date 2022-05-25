@@ -1,10 +1,11 @@
 ---
-title: '* * *'
 contentType: prose
 ---
 
-_Vychází slunce maje pod očima skoby  
+## \* \* \*
+
+Vychází slunce maje pod očima skoby  
 na nichž jako zlatí brouci visí oběšenci  
 svorně zakletí mí bratříčkové  
 šustící v sukních sestry jejich chodíme po zemi  
-a jsme raději když prší_
+a jsme raději když prší

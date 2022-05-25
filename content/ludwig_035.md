@@ -1,23 +1,24 @@
 ---
-title: Žolík
 contentType: prose
 ---
 
-_Usaď se na tuto truhlu  
-a zadrž dech._
+## Žolík
 
-_Uvnitř se převrací na hracích žetonech  
-vykrvený žolík._
+Usaď se na tuto truhlu  
+a zadrž dech.
 
-_Netučný vychroptělý  
+Uvnitř se převrací na hracích žetonech  
+vykrvený žolík.
+
+Netučný vychroptělý  
 pilkou si vyřezává v boku stěny  
 křivé srdce. Přidušen,  
-bez hlesu ze dna vycachtá kalužku krve._
+bez hlesu ze dna vycachtá kalužku krve.
 
-_V noci tu vije ze svých muk  
+V noci tu vije ze svých muk  
 jemně vyplétaný žalozpěv  
-o mamutích norách._
+o mamutích norách.
 
-_V ruletě sviští kulky  
+V ruletě sviští kulky  
 a v komíně se udí šunka  
-ze žolíčích prstů._
+ze žolíčích prstů.

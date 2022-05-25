@@ -1,9 +1,10 @@
 ---
-title: A půjdeme
 contentType: prose
 ---
 
-_A půjdeme. A světlo z domů proline  
+## A půjdeme
+
+A půjdeme. A světlo z domů proline  
 až skrze stromy k nám. A staneme  
 tam, kde je nejsladčeji. V podzemním  
 bludišti anebo v sklepním tanci  
@@ -12,20 +13,20 @@ A půjdeme. A tančit s psíkem olysalým
 či ptákem kálejícím.  
 A půjdeme a zahoříme v krytých svícnech.  
 Na hrobech, tam za mdlými skly. Za dveřmi  
-za otčinou za humny za valy města._
+za otčinou za humny za valy města.
 
-_Možná.  
-Možná, že nepůjdeme._
+Možná.  
+Možná, že nepůjdeme.
 
-_Tam někdy rozplyne se hned  
+Tam někdy rozplyne se hned  
 co herec stárnoucí otevře prvně ústa  
-bez nádechu._
+bez nádechu.
 
-_Půjdeme odvalíme stečem  
+Půjdeme odvalíme stečem  
 za voskem stékajícím svahy  
 Jen jednou smí se říci: Umřeme  
-na okamžik na záblesk zářícího oka._
+na okamžik na záblesk zářícího oka.
 
-_Copak? Copak se stalo? Snad ne strach?  
+Copak? Copak se stalo? Snad ne strach?  
 Snad neprcháte jinam?  
-Je plamen pod chodidly příliš žhavý?_
+Je plamen pod chodidly příliš žhavý?

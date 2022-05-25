@@ -1,25 +1,26 @@
 ---
-title: '* * *'
 contentType: prose
 ---
 
-_Za ledovým sklem padají osamělé vločky  
+## \* \* \*
+
+Za ledovým sklem padají osamělé vločky  
 doma v teple se svítí  
-                                       do noci_
+                                       do noci
 
-_přijíždí tažená koňmi  
+přijíždí tažená koňmi  
 obejme tě  
-                                       neslyšně_
+                                       neslyšně
 
-_jako když se  
+jako když se  
 pomalu  
-trhá struna_
+trhá struna
 
-_prý abys zkřehlé  
+prý abys zkřehlé  
 temně fialové  
-prsty dechem zahříval_
+prsty dechem zahříval
 
-_v tvé péči však opadaly  
+v tvé péči však opadaly  
 dechem se rozdrobily  
                                        ledové  
-                                       ledové její prsty_
+                                       ledové její prsty

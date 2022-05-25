@@ -1,26 +1,27 @@
 ---
-title: Hříchy
 contentType: prose
 ---
 
-_Jest jedna plocha v světě  
+## Hříchy
+
+Jest jedna plocha v světě  
 na které všechno umírá  
 po té jde on,  
 a na jiné se svíjí čekající,  
-po té zas já jdu, sama._
+po té zas já jdu, sama.
 
-_Musí být někde tady ve tmě  
+Musí být někde tady ve tmě  
 plocha lámaného skla  
 co temně probleskuje do ticha  
 na které vine se  
-co touží k sobě lnout._
+co touží k sobě lnout.
 
-_Tam, kde je tma, se jenom hmatá  
+Tam, kde je tma, se jenom hmatá  
 a také šeptá snad  
 tam jdou spolu ti  
 co navzájem si donedávna  
-byli zapovězeni._
+byli zapovězeni.
 
-_Tam, kde je tma, se jenom hmatá  
+Tam, kde je tma, se jenom hmatá  
 Tam za oponou dějí se  
-strašné a přehluboké hříchy._
+strašné a přehluboké hříchy.

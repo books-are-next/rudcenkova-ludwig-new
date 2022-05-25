@@ -1,9 +1,10 @@
 ---
-title: Hrob
 contentType: prose
 ---
 
-_Uličkou podél hřbitova  
+## Hrob
+
+Uličkou podél hřbitova  
 tři ženy jdou.  
 Pravá ramena svěšená  
 ta levá stisklou dlaň  
@@ -14,4 +15,4 @@ do vlastních vzpomínek.
 Ze školy dle bílé zdi  
 tři dívenky  
 jdou  
-posedět u hrobu svých otců._
+posedět u hrobu svých otců.

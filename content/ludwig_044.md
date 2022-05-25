@@ -1,18 +1,19 @@
 ---
-title: Bérénice Abbott
 contentType: prose
 ---
 
-_(Helence)_
+## Bérénice Abbott
 
-_Ach její oči._
+(Helence)
 
-_Však pomni: jedinkrát pohlédla by  
+Ach její oči.
+
+Však pomni: jedinkrát pohlédla by  
 ta sklíčka rozprchnou se v tříšť  
-a ještě marněji bys prosil_
+a ještě marněji bys prosil
 
-_chlapče, říkal bys, anděli  
+chlapče, říkal bys, anděli  
 u opony klečím  
-tys bílá nevinná_
+tys bílá nevinná
 
-_a chlípná_
+a chlípná

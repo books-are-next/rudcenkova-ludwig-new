@@ -1,16 +1,17 @@
 ---
-title: Zdá se
 contentType: prose
 ---
 
-_Zdá se mi, že domy vybělují  
+## Zdá se
+
+Zdá se mi, že domy vybělují  
 anebo šednou  
 že stále hůř hledám někoho  
 jen k mlčení  
-a že je pozdě_
+a že je pozdě
 
-_Váhavé struny nahých houslistů  
+Váhavé struny nahých houslistů  
 roztřepenými smyčci rozeznělé  
 stále dokola táž slova  
 tytéž melodie  
-kamkoli vkročíš_
+kamkoli vkročíš

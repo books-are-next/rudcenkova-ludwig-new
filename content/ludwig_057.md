@@ -1,8 +1,9 @@
 ---
-title: '* * *'
 contentType: prose
 ---
 
-_V cinkotu číší  
+## \* \* \*
+
+V cinkotu číší  
 se náhle zachví čísi  
-pronikavý smích_
+pronikavý smích

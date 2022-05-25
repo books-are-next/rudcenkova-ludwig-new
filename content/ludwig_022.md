@@ -1,26 +1,27 @@
 ---
-title: Strach
 contentType: prose
 ---
 
-_Znamení osudu zapomněla vyvrcholit  
-Zbavit se svého těla by byl dobrý začátek_
+## Strach
 
-_Nevzali mě ven  
-ubohý_
+Znamení osudu zapomněla vyvrcholit  
+Zbavit se svého těla by byl dobrý začátek
 
-_opuštěn  
-volný čas promrhán_
+Nevzali mě ven  
+ubohý
 
-_Nechat si na zchromlou ruku  
+opuštěn  
+volný čas promrhán
+
+Nechat si na zchromlou ruku  
 přivázat štětec  
-vyšvihnout autoportrét_
+vyšvihnout autoportrét
 
-_Jak to mohlo dopadnout jinak  
+Jak to mohlo dopadnout jinak  
 dívá se skrz vaše oči  
 nevíte zda jde o lhostejnost či nepřítomnost  
-duchem_
+duchem
 
-_Omdlít při každém pohledu do zrcadla  
+Omdlít při každém pohledu do zrcadla  
 Hnus dojetí lítost hnus Zázračný kruh  
-z něhož zvolna a tajně vytéká krev_
+z něhož zvolna a tajně vytéká krev

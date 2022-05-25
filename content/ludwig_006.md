@@ -1,20 +1,21 @@
 ---
-title: Vím, kde
 contentType: prose
 ---
 
-_Vím, čím se zachvívají listy  
+## Vím, kde
+
+Vím, čím se zachvívají listy  
 vím, odkud se bere strach a odkud vzlyk  
-znám to tiché místo mezi stromy_
+znám to tiché místo mezi stromy
 
-_Tam, kde se nejvíc cítí opuštěný  
+Tam, kde se nejvíc cítí opuštěný  
 i jen pták co vysoko se nebem mihne  
-tam, kde se voda zkalí i za jasného dne_
+tam, kde se voda zkalí i za jasného dne
 
-_tam žiji. Zvířecí a němý  
+tam žiji. Zvířecí a němý  
 zvířený touhou po čemkoli  
-neb já jsem všechno, co je prázdné_
+neb já jsem všechno, co je prázdné
 
-_Neb já jsem bolest  
+Neb já jsem bolest  
 rána plná krve  
-ze které pije den, jenž nemá přijít_
+ze které pije den, jenž nemá přijít

@@ -1,17 +1,18 @@
 ---
-title: '* * *'
 contentType: prose
 ---
 
-_Bojím se že nikdo nepřijde a nezazvoní  
+## \* \* \*
+
+Bojím se že nikdo nepřijde a nezazvoní  
                             I kdyby  
 Na stole voní pečené ruce  
                  nepočatého dítěte  
-                            a v koutě odpočívá_
+                            a v koutě odpočívá
 
-_neroztlučený  
+neroztlučený  
                  zlatý  
                             zub  
 Něco se nakonec stát musí  
                             I kdyby jenom nepatrná  
-                 smrt_
+                 smrt

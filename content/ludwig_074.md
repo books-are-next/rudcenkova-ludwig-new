@@ -1,35 +1,36 @@
 ---
-title: Z města
 contentType: prose
 ---
 
-_(Lucii N.)_
+## Z města
 
-_Sevřeni  
+(Lucii N.)
+
+Sevřeni  
 mezi křídla špinavých ptáků  
-a zvonění tramvají_
+a zvonění tramvají
 
-_A jen za tmy že vidíme  
+A jen za tmy že vidíme  
 po stropech míhat se  
 světelné pruhy  
-uroněné projíždějícími auty_
+uroněné projíždějícími auty
 
-_Čím dál hlasitěji  
+Čím dál hlasitěji  
 s lety  
 pouštět tentýž menuet  
-na pouti od vany k oknu_
+na pouti od vany k oknu
 
-_Že tu snad chybí zátočiny  
+Že tu snad chybí zátočiny  
 a pnutí plachet nemohoucích přistát  
-pod vlivem vodních duchů_
+pod vlivem vodních duchů
 
-_a šelesty listů  
-na úzkých opuštěných cestách_
+a šelesty listů  
+na úzkých opuštěných cestách
 
-_Dívat se z vrcholu do údolí  
-na blikající světlo:_
+Dívat se z vrcholu do údolí  
+na blikající světlo:
 
-_dům s kuřími křídly  
+dům s kuřími křídly  
 který sem zalít  
 z města  
-nazobat se ticha_
+nazobat se ticha

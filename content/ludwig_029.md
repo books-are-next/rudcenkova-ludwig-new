@@ -1,23 +1,24 @@
 ---
-title: Setkání 3\.3\.97
 contentType: prose
 ---
 
-_Na rohu Národní stála drobná žena  
+## Setkání 3.3.97
+
+Na rohu Národní stála drobná žena  
 kolem krku uvázaný bílý šál  
-ten se za ní táhl tmou přes Vltavu na druhý břeh_
+ten se za ní táhl tmou přes Vltavu na druhý břeh
 
-_Viděl jsem že na mostě právě zastavil  
-vlak a také on dosahoval od břehu k břehu_
+Viděl jsem že na mostě právě zastavil  
+vlak a také on dosahoval od břehu k břehu
 
-_Světla z oken upadla do vody  
+Světla z oken upadla do vody  
 a žena odpověděla: ano děvka chcete-li  
 na prodej k službám lechtivé uhlí do kamen  
-těžký ten unavený loket zasekla do mého Pojďte_
+těžký ten unavený loket zasekla do mého Pojďte
 
-_Pak jsme se plazili pod zemí  
+Pak jsme se plazili pod zemí  
 dva štíhlí potkani  
 až na dno stoky z které čpěla  
-poslední přestárlá a první nedospělá březí noc_
+poslední přestárlá a první nedospělá březí noc
 
-_Ona břeh — já břeh_
+Ona břeh — já břeh

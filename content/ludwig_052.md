@@ -1,8 +1,9 @@
 ---
-title: '* * *'
 contentType: prose
 ---
 
-_Blíží se večer.  
+## \* \* \*
+
+Blíží se večer.  
 Toulavý pes mi běží  
-s kostí naproti._
+s kostí naproti.
