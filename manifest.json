@@ -1,0 +1,2224 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ludwig",
+  "author": "Kateřina Rudčenková",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "rudcenkova-ludwig-3a2e38c",
+  "revision": "3a2e38c",
+  "readingOrder": [
+    "promo.html",
+    "ludwig_001.html",
+    "ludwig_002.html",
+    "ludwig_003.html",
+    "ludwig_004.html",
+    "ludwig_005.html",
+    "ludwig_006.html",
+    "ludwig_007.html",
+    "ludwig_008.html",
+    "ludwig_009.html",
+    "ludwig_010.html",
+    "ludwig_011.html",
+    "ludwig_012.html",
+    "ludwig_013.html",
+    "ludwig_014.html",
+    "ludwig_015.html",
+    "ludwig_016.html",
+    "ludwig_017.html",
+    "ludwig_018.html",
+    "ludwig_019.html",
+    "ludwig_020.html",
+    "ludwig_021.html",
+    "ludwig_022.html",
+    "ludwig_023.html",
+    "ludwig_024.html",
+    "ludwig_025.html",
+    "ludwig_026.html",
+    "ludwig_027.html",
+    "ludwig_028.html",
+    "ludwig_029.html",
+    "ludwig_030.html",
+    "ludwig_031.html",
+    "ludwig_032.html",
+    "ludwig_033.html",
+    "ludwig_034.html",
+    "ludwig_035.html",
+    "ludwig_036.html",
+    "ludwig_037.html",
+    "ludwig_038.html",
+    "ludwig_039.html",
+    "ludwig_040.html",
+    "ludwig_041.html",
+    "ludwig_042.html",
+    "ludwig_043.html",
+    "ludwig_044.html",
+    "ludwig_045.html",
+    "ludwig_046.html",
+    "ludwig_047.html",
+    "ludwig_048.html",
+    "ludwig_049.html",
+    "ludwig_050.html",
+    "ludwig_051.html",
+    "ludwig_052.html",
+    "ludwig_053.html",
+    "ludwig_054.html",
+    "ludwig_055.html",
+    "ludwig_056.html",
+    "ludwig_057.html",
+    "ludwig_058.html",
+    "ludwig_059.html",
+    "ludwig_060.html",
+    "ludwig_061.html",
+    "ludwig_062.html",
+    "ludwig_063.html",
+    "ludwig_064.html",
+    "ludwig_065.html",
+    "ludwig_066.html",
+    "ludwig_067.html",
+    "ludwig_068.html",
+    "ludwig_069.html",
+    "ludwig_070.html",
+    "ludwig_071.html",
+    "ludwig_072.html",
+    "ludwig_073.html",
+    "ludwig_074.html",
+    "ludwig_075.html",
+    "ludwig_076.html",
+    "ludwig_077.html"
+  ],
+  "generatedAt": {
+    "date": "Wed May 25 2022 04:57:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653454658107
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ludwig_001.html",
+      "toc": []
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ludwig_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ludwig_001.html",
+      "next": "ludwig_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_003.html",
+      "words": 3,
+      "chars": 25,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ludwig_002.html",
+      "next": "ludwig_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_004.html",
+      "words": 94,
+      "chars": 616,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ludwig_003.html",
+      "next": "ludwig_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_005.html",
+      "words": 16,
+      "chars": 115,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ludwig_004.html",
+      "next": "ludwig_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "LUDWIG",
+          "id": "ludwig",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_006.html",
+      "words": 74,
+      "chars": 362,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ludwig_005.html",
+      "next": "ludwig_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Vím, kde",
+              "id": "vím-kde",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_007.html",
+      "words": 86,
+      "chars": 415,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ludwig_006.html",
+      "next": "ludwig_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hříchy",
+              "id": "hříchy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_008.html",
+      "words": 47,
+      "chars": 255,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ludwig_007.html",
+      "next": "ludwig_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ludwig",
+              "id": "ludwig",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_009.html",
+      "words": 74,
+      "chars": 402,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ludwig_008.html",
+      "next": "ludwig_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hlavní postavy",
+              "id": "hlavní-postavy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_010.html",
+      "words": 59,
+      "chars": 358,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ludwig_009.html",
+      "next": "ludwig_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Wesele pulsuje",
+              "id": "wesele-pulsuje",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_011.html",
+      "words": 90,
+      "chars": 472,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ludwig_010.html",
+      "next": "ludwig_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Strašně líný Ludwig",
+              "id": "strašně-líný-ludwig",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_012.html",
+      "words": 112,
+      "chars": 636,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ludwig_011.html",
+      "next": "ludwig_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "A půjdeme",
+              "id": "anbsppůjdeme",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_013.html",
+      "words": 37,
+      "chars": 205,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ludwig_012.html",
+      "next": "ludwig_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zdá se",
+              "id": "zdá-se",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_014.html",
+      "words": 89,
+      "chars": 473,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ludwig_013.html",
+      "next": "ludwig_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "A oči zavřít",
+              "id": "anbspoči-zavřít",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_015.html",
+      "words": 43,
+      "chars": 235,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ludwig_014.html",
+      "next": "ludwig_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Thea",
+              "id": "thea",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_016.html",
+      "words": 42,
+      "chars": 235,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ludwig_015.html",
+      "next": "ludwig_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Tam, kde jsme spali včera",
+              "id": "tam-kde-jsme-spali-včera",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_017.html",
+      "words": 116,
+      "chars": 686,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ludwig_016.html",
+      "next": "ludwig_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Thombern",
+              "id": "thombern",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_018.html",
+      "words": 64,
+      "chars": 348,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ludwig_017.html",
+      "next": "ludwig_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Čtenář Thomase Bernharda",
+              "id": "čtenář-thomase-bernharda",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_019.html",
+      "words": 74,
+      "chars": 418,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ludwig_018.html",
+      "next": "ludwig_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Teď",
+              "id": "teď",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_020.html",
+      "words": 33,
+      "chars": 187,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ludwig_019.html",
+      "next": "ludwig_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ještě brzy",
+              "id": "ještě-brzy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_021.html",
+      "words": 92,
+      "chars": 526,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ludwig_020.html",
+      "next": "ludwig_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
+              "id": "píseň-kterou-zpívá-ludwigovi-jeho-sestra-ritter",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_022.html",
+      "words": 67,
+      "chars": 395,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ludwig_021.html",
+      "next": "ludwig_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Strach",
+              "id": "strach",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_023.html",
+      "words": 38,
+      "chars": 204,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ludwig_022.html",
+      "next": "ludwig_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Jako by vedle…",
+              "id": "jako-bynbspvedle",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_024.html",
+      "words": 56,
+      "chars": 309,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ludwig_023.html",
+      "next": "ludwig_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ludwig posté",
+              "id": "ludwig-posté",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_025.html",
+      "words": 63,
+      "chars": 386,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ludwig_024.html",
+      "next": "ludwig_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Píseň, kterou zpívá Ludwigovi smrt",
+              "id": "píseň-kterou-zpívá-ludwigovi-smrt",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_026.html",
+      "words": 51,
+      "chars": 303,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ludwig_025.html",
+      "next": "ludwig_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Je po všem",
+              "id": "jenbspponbspvšem",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_027.html",
+      "words": 127,
+      "chars": 710,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ludwig_026.html",
+      "next": "ludwig_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Elegie usmíření",
+              "id": "elegie-usmíření",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_028.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ludwig_027.html",
+      "next": "ludwig_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "ZJEVY",
+          "id": "zjevy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_029.html",
+      "words": 96,
+      "chars": 493,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ludwig_028.html",
+      "next": "ludwig_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Setkání 3.3.97",
+              "id": "setkání-3397",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_030.html",
+      "words": 76,
+      "chars": 391,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ludwig_029.html",
+      "next": "ludwig_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_031.html",
+      "words": 23,
+      "chars": 147,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ludwig_030.html",
+      "next": "ludwig_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Okamžik",
+              "id": "okamžik",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_032.html",
+      "words": 82,
+      "chars": 480,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ludwig_031.html",
+      "next": "ludwig_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Po večeři",
+              "id": "ponbspvečeři",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_033.html",
+      "words": 49,
+      "chars": 284,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ludwig_032.html",
+      "next": "ludwig_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Jitro",
+              "id": "jitro",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_034.html",
+      "words": 106,
+      "chars": 545,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ludwig_033.html",
+      "next": "ludwig_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Noční show",
+              "id": "noční-show",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_035.html",
+      "words": 61,
+      "chars": 335,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ludwig_034.html",
+      "next": "ludwig_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Žolík",
+              "id": "žolík",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_036.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ludwig_035.html",
+      "next": "ludwig_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "UBLEDLÁ",
+          "id": "ubledlá",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_037.html",
+      "words": 50,
+      "chars": 267,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ludwig_036.html",
+      "next": "ludwig_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ústřičná",
+              "id": "ústřičná",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_038.html",
+      "words": 47,
+      "chars": 265,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ludwig_037.html",
+      "next": "ludwig_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Sémě",
+              "id": "sémě",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_039.html",
+      "words": 67,
+      "chars": 401,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ludwig_038.html",
+      "next": "ludwig_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Svitky",
+              "id": "svitky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_040.html",
+      "words": 39,
+      "chars": 195,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ludwig_039.html",
+      "next": "ludwig_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Jezero",
+              "id": "jezero",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I",
+                  "id": "i",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_041.html",
+      "words": 28,
+      "chars": 156,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ludwig_040.html",
+      "next": "ludwig_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_042.html",
+      "words": 76,
+      "chars": 404,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ludwig_041.html",
+      "next": "ludwig_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_043.html",
+      "words": 47,
+      "chars": 279,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ludwig_042.html",
+      "next": "ludwig_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pocta Sfinze",
+              "id": "pocta-sfinze",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_044.html",
+      "words": 34,
+      "chars": 193,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ludwig_043.html",
+      "next": "ludwig_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Bérénice Abbott",
+              "id": "bérénice-abbott",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_045.html",
+      "words": 48,
+      "chars": 254,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ludwig_044.html",
+      "next": "ludwig_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_046.html",
+      "words": 143,
+      "chars": 735,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ludwig_045.html",
+      "next": "ludwig_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Rybí blues",
+              "id": "rybí-blues",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_047.html",
+      "words": 56,
+      "chars": 315,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ludwig_046.html",
+      "next": "ludwig_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Sfinga",
+              "id": "sfinga",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_048.html",
+      "words": 33,
+      "chars": 177,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 48,
+      "prev": "ludwig_047.html",
+      "next": "ludwig_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Studny",
+              "id": "studny",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_049.html",
+      "words": 193,
+      "chars": 1012,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 49,
+      "prev": "ludwig_048.html",
+      "next": "ludwig_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Jsi černá",
+              "id": "jsi-černá",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_050.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 50,
+      "prev": "ludwig_049.html",
+      "next": "ludwig_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "HAIKU",
+          "id": "haiku",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_051.html",
+      "words": 12,
+      "chars": 57,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 51,
+      "prev": "ludwig_050.html",
+      "next": "ludwig_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_052.html",
+      "words": 13,
+      "chars": 55,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 52,
+      "prev": "ludwig_051.html",
+      "next": "ludwig_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_053.html",
+      "words": 13,
+      "chars": 52,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 53,
+      "prev": "ludwig_052.html",
+      "next": "ludwig_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_054.html",
+      "words": 11,
+      "chars": 66,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 54,
+      "prev": "ludwig_053.html",
+      "next": "ludwig_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Milostné haiku",
+              "id": "milostné-haiku",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_055.html",
+      "words": 11,
+      "chars": 62,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 55,
+      "prev": "ludwig_054.html",
+      "next": "ludwig_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kuřácké haiku",
+              "id": "kuřácké-haiku",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_056.html",
+      "words": 13,
+      "chars": 60,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 56,
+      "prev": "ludwig_055.html",
+      "next": "ludwig_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_057.html",
+      "words": 12,
+      "chars": 54,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 57,
+      "prev": "ludwig_056.html",
+      "next": "ludwig_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_058.html",
+      "words": 12,
+      "chars": 65,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 58,
+      "prev": "ludwig_057.html",
+      "next": "ludwig_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zimní haiku",
+              "id": "zimní-haiku",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_059.html",
+      "words": 15,
+      "chars": 69,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 59,
+      "prev": "ludwig_058.html",
+      "next": "ludwig_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Haiku k podpírání",
+              "id": "haiku-knbsppodpírání",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_060.html",
+      "words": 12,
+      "chars": 52,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 60,
+      "prev": "ludwig_059.html",
+      "next": "ludwig_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_061.html",
+      "words": 12,
+      "chars": 64,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 61,
+      "prev": "ludwig_060.html",
+      "next": "ludwig_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Porozechvělý",
+              "id": "porozechvělý",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_062.html",
+      "words": 10,
+      "chars": 49,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 62,
+      "prev": "ludwig_061.html",
+      "next": "ludwig_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_063.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 63,
+      "prev": "ludwig_062.html",
+      "next": "ludwig_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "BŘEH",
+          "id": "břeh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_064.html",
+      "words": 36,
+      "chars": 181,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 64,
+      "prev": "ludwig_063.html",
+      "next": "ludwig_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_065.html",
+      "words": 47,
+      "chars": 246,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 65,
+      "prev": "ludwig_064.html",
+      "next": "ludwig_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_066.html",
+      "words": 36,
+      "chars": 193,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 66,
+      "prev": "ludwig_065.html",
+      "next": "ludwig_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Mračna",
+              "id": "mračna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_067.html",
+      "words": 20,
+      "chars": 103,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 67,
+      "prev": "ludwig_066.html",
+      "next": "ludwig_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_068.html",
+      "words": 21,
+      "chars": 93,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 68,
+      "prev": "ludwig_067.html",
+      "next": "ludwig_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_069.html",
+      "words": 29,
+      "chars": 182,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 69,
+      "prev": "ludwig_068.html",
+      "next": "ludwig_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pozvolna",
+              "id": "pozvolna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_070.html",
+      "words": 4,
+      "chars": 19,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 70,
+      "prev": "ludwig_069.html",
+      "next": "ludwig_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Z ÚSTRANÍ",
+          "id": "znbspústraní",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_071.html",
+      "words": 44,
+      "chars": 240,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 71,
+      "prev": "ludwig_070.html",
+      "next": "ludwig_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hrob",
+              "id": "hrob",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_072.html",
+      "words": 40,
+      "chars": 203,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 72,
+      "prev": "ludwig_071.html",
+      "next": "ludwig_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Cirk",
+              "id": "cirk",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_073.html",
+      "words": 23,
+      "chars": 118,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 73,
+      "prev": "ludwig_072.html",
+      "next": "ludwig_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Podzim",
+              "id": "podzim",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_074.html",
+      "words": 83,
+      "chars": 450,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 74,
+      "prev": "ludwig_073.html",
+      "next": "ludwig_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Z města",
+              "id": "znbspměsta",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_075.html",
+      "words": 96,
+      "chars": 535,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 75,
+      "prev": "ludwig_074.html",
+      "next": "ludwig_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Se studem",
+              "id": "senbspstudem",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_076.html",
+      "words": 33,
+      "chars": 179,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 76,
+      "prev": "ludwig_075.html",
+      "next": "ludwig_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ludwig",
+      "file": "ludwig_077.html",
+      "words": 46,
+      "chars": 313,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 77,
+      "prev": "ludwig_076.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3713,
+      "chars": 20415,
+      "ideas": 885
+    },
+    "chapters": {
+      "words": 3709,
+      "chars": 20385,
+      "ideas": 882
+    }
+  }
+}

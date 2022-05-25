@@ -1,6 +1,7 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Ludwig",
       "identifier": "cdfca6b8-c1f4-4196-85a0-eaad1cc9194a",
       "author": "Kateřina Rudčenková",
@@ -10,7 +11,7 @@
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
+      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis\nmlpuroven2basne",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -22,15 +23,16 @@
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "ludwig_001.md",
@@ -1433,6 +1435,6 @@
       "user": "books-are-next",
       "repo": "rudcenkova-ludwig-new"
     },
-    "generatedAt": 1653336938866
+    "generatedAt": 1653454603684
   }
 }

@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Ludwig
   identifier: cdfca6b8-c1f4-4196-85a0-eaad1cc9194a
   author: Kateřina Rudčenková
@@ -92,6 +93,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
