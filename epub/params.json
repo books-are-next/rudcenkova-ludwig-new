@@ -6,25 +6,24 @@
       "identifier": "cdfca6b8-c1f4-4196-85a0-eaad1cc9194a",
       "author": "Kateřina Rudčenková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-01-30T00:00:00.000Z",
-      "publisherShort": "mkp"
+      "modified": "2019-01-30T00:00:00.000Z"
     },
     "elements": {
-      "title": "mlpuroven1cast\nmlpuroven2basne\nmlpuroven3basne ",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
+      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis\nmlpuroven2basne",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nmlptextbez1radku\nmlptextbez1radku1\nmlptextbez1radku2\n",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nmlpznakkurziva11b\nmlpvenovanicxspfirst\nmlpvenovanicxspmiddle\nmlpverse\nmlpversei\n",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nmlptirazautoranazev",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": "",
       "verse": "MLP-verse\nMLP-verse.+"
@@ -39,49 +38,45 @@
             "filename": "ludwig_001.md",
             "xhtml": "ludwig_001.html",
             "id": 0,
-            "role": "cover",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_002.md",
             "xhtml": "ludwig_002.html",
             "id": 1,
-            "role": "promo",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_003.md",
             "xhtml": "ludwig_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_004.md",
             "xhtml": "ludwig_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_005.md",
@@ -92,8 +87,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_006.md",
@@ -104,8 +98,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_007.md",
@@ -116,8 +109,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_008.md",
@@ -128,8 +120,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_009.md",
@@ -140,8 +131,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_010.md",
@@ -152,8 +142,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_011.md",
@@ -164,8 +153,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_012.md",
@@ -176,8 +164,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_013.md",
@@ -188,8 +175,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_014.md",
@@ -200,8 +186,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_015.md",
@@ -212,8 +197,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_016.md",
@@ -224,8 +208,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_017.md",
@@ -236,8 +219,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_018.md",
@@ -248,8 +230,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_019.md",
@@ -260,8 +241,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_020.md",
@@ -272,8 +252,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_021.md",
@@ -284,8 +263,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_022.md",
@@ -296,8 +274,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_023.md",
@@ -308,8 +285,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_024.md",
@@ -320,8 +296,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_025.md",
@@ -332,8 +307,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_026.md",
@@ -344,8 +318,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_027.md",
@@ -356,8 +329,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_028.md",
@@ -368,8 +340,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_029.md",
@@ -380,8 +351,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_030.md",
@@ -392,8 +362,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_031.md",
@@ -404,8 +373,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_032.md",
@@ -416,8 +384,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_033.md",
@@ -428,8 +395,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_034.md",
@@ -440,8 +406,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_035.md",
@@ -452,8 +417,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_036.md",
@@ -464,8 +428,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_037.md",
@@ -476,8 +439,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_038.md",
@@ -488,8 +450,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_039.md",
@@ -500,8 +461,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_040.md",
@@ -512,8 +472,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_041.md",
@@ -524,8 +483,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_042.md",
@@ -536,8 +494,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_043.md",
@@ -548,8 +505,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_044.md",
@@ -560,8 +516,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_045.md",
@@ -572,8 +527,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_046.md",
@@ -584,8 +538,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_047.md",
@@ -596,8 +549,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_048.md",
@@ -608,8 +560,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_049.md",
@@ -620,8 +571,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_050.md",
@@ -632,8 +582,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_051.md",
@@ -644,8 +593,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_052.md",
@@ -656,8 +604,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_053.md",
@@ -668,8 +615,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_054.md",
@@ -680,8 +626,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_055.md",
@@ -692,8 +637,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_056.md",
@@ -704,8 +648,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_057.md",
@@ -716,8 +659,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_058.md",
@@ -728,8 +670,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_059.md",
@@ -740,8 +681,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_060.md",
@@ -752,8 +692,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_061.md",
@@ -764,8 +703,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_062.md",
@@ -776,8 +714,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_063.md",
@@ -788,8 +725,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_064.md",
@@ -800,8 +736,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_065.md",
@@ -812,8 +747,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_066.md",
@@ -824,8 +758,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_067.md",
@@ -836,8 +769,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_068.md",
@@ -848,8 +780,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_069.md",
@@ -860,8 +791,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_070.md",
@@ -872,8 +802,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_071.md",
@@ -884,8 +813,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_072.md",
@@ -896,8 +824,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_073.md",
@@ -908,8 +835,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_074.md",
@@ -920,8 +846,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_075.md",
@@ -932,8 +857,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_076.md",
@@ -944,20 +868,18 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           },
           {
             "filename": "ludwig_077.md",
             "xhtml": "ludwig_077.html",
             "id": 76,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": false
           }
         ]
       }
