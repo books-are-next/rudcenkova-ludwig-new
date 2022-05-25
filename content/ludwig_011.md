@@ -1,8 +1,7 @@
 ---
+title: Strašně líný Ludwig
 contentType: prose
 ---
-
-## Strašně líný Ludwig
 
 Smrchule bledá se roztřásla nevděkem  
 vzteká se že se po ní hnedle nevrhám  

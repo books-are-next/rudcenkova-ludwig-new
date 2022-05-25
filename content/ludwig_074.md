@@ -1,8 +1,7 @@
 ---
+title: Z města
 contentType: prose
 ---
-
-## Z města
 
 (Lucii N.)
 

@@ -1,8 +1,7 @@
 ---
+title: Hrob
 contentType: prose
 ---
-
-## Hrob
 
 Uličkou podél hřbitova  
 tři ženy jdou.  

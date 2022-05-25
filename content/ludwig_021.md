@@ -1,8 +1,7 @@
 ---
+title: Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
 contentType: prose
 ---
-
-## Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
 
 Osleplý či odvážný  
 postoupen iluzi.  

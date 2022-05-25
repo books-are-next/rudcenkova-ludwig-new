@@ -1,8 +1,7 @@
 ---
+title: Haiku k podpírání
 contentType: prose
 ---
-
-## Haiku k podpírání
 
 S berlou, bez nohou  
 a slepý válet sudy  

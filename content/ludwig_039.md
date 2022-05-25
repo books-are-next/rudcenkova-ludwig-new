@@ -1,8 +1,7 @@
 ---
+title: Svitky
 contentType: prose
 ---
-
-## Svitky
 
 A zase dny plné hlemýžďů  
 vláčné jak tření těl  

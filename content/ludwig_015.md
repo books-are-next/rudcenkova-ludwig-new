@@ -1,8 +1,7 @@
 ---
+title: Thea
 contentType: prose
 ---
-
-## Thea
 
 Thea nám přinesla čaj  
 vyměnila popelník na stole  

@@ -1,8 +1,7 @@
 ---
+title: Zimní haiku
 contentType: prose
 ---
-
-## Zimní haiku
 
 Pod ledem zmizel  
 náhodný bruslař. Do tmy  

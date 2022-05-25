@@ -1,8 +1,7 @@
 ---
+title: Je po všem
 contentType: prose
 ---
-
-## Je po všem
 
 Zase se přikrádá dávná touha  
 jak horká višeň ze tmy

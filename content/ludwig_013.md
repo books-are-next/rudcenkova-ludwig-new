@@ -1,8 +1,7 @@
 ---
+title: Zdá se
 contentType: prose
 ---
-
-## Zdá se
 
 Zdá se mi, že domy vybělují  
 anebo šednou  

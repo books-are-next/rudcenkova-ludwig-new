@@ -1,8 +1,7 @@
 ---
+title: Hlavní postavy
 contentType: prose
 ---
-
-## Hlavní postavy
 
 Vlaštovky se rozstřikují po nebi  
 hřmí zpoza popelnic

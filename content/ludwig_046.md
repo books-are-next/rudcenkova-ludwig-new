@@ -1,8 +1,7 @@
 ---
+title: Rybí blues
 contentType: prose
 ---
-
-## Rybí blues
 
 Sedím pod stromem  
 čekám na tebe  

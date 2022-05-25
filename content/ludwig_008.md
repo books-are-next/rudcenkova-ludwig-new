@@ -1,8 +1,7 @@
 ---
+title: Ludwig
 contentType: prose
 ---
-
-## Ludwig
 
 Vše je načichlé kouřem.
 

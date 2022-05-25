@@ -1,8 +1,7 @@
 ---
+title: Pocta Sfinze
 contentType: prose
 ---
-
-## Pocta Sfinze
 
 A odkud — zhloubi? —  
 zaznívají trylky rozjívených  

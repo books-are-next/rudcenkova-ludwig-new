@@ -1,8 +1,7 @@
 ---
+title: Jezero
 contentType: prose
 ---
-
-## Jezero
 
 ### I
 

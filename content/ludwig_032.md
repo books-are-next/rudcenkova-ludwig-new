@@ -1,8 +1,7 @@
 ---
+title: Po večeři
 contentType: prose
 ---
-
-## Po večeři
 
 Po večeři se hosté rozešli  
 tlustí se odvalili pozlacení odtekli  

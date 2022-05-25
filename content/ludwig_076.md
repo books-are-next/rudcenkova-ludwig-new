@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Vychází slunce maje pod očima skoby  
 na nichž jako zlatí brouci visí oběšenci  

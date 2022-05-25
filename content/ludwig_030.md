@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Ta žena má příliš velká ústa  
 proto tak sladce hraje na klarinet  

@@ -1,8 +1,7 @@
 ---
+title: Setkání 3\.3\.97
 contentType: prose
 ---
-
-## Setkání 3.3.97
 
 Na rohu Národní stála drobná žena  
 kolem krku uvázaný bílý šál  

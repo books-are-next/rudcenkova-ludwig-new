@@ -1,8 +1,7 @@
 ---
+title: Thombern
 contentType: prose
 ---
-
-## Thombern
 
 (Thomas Bernhard v pavilonu Hermann)
 

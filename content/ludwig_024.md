@@ -1,8 +1,7 @@
 ---
+title: Ludwig posté
 contentType: prose
 ---
-
-## Ludwig posté
 
 Prohlubují se tyto otvory  
 a bolí.  

@@ -1,8 +1,7 @@
 ---
+title: Noční show
 contentType: prose
 ---
-
-## Noční show
 
 Jsem bez nohou a sedím za komínem  
 (navštivte mne)  

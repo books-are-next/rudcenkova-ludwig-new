@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Za ledovým sklem padají osamělé vločky  
 doma v teple se svítí  

@@ -1,8 +1,7 @@
 ---
+title: Studny
 contentType: prose
 ---
-
-## Studny
 
 Tělo prochvělé studem  
 po stěnách studen mech se krade  

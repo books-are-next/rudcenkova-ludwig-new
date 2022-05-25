@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Bojím se že nikdo nepřijde a nezazvoní  
                             I kdyby  

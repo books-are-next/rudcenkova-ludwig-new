@@ -1,8 +1,7 @@
 ---
+title: Ústřičná
 contentType: prose
 ---
-
-## Ústřičná
 
 Půlím ústřici  
 její bledé údy se ještě chvějí  

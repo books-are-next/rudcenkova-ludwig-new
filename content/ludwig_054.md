@@ -1,8 +1,7 @@
 ---
+title: Milostné haiku
 contentType: prose
 ---
-
-## Milostné haiku
 
 Odhrnul ti vlas.  
 Zůstala pod ním černá  

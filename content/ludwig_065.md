@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Trhavě sune se jako vlk sněhem  
 to co mě zatěžuje  

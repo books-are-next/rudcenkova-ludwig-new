@@ -1,8 +1,7 @@
 ---
+title: Pozvolna
 contentType: prose
 ---
-
-## Pozvolna
 
 Jemné praskání uhořívajících cigaret.  
 Žhavý popel, co náhle zhasne.  

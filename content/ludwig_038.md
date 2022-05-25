@@ -1,8 +1,7 @@
 ---
+title: Sémě
 contentType: prose
 ---
-
-## Sémě
 
 Jdeš zakrýváš si oči  
 nerozpuštěné vlasy  

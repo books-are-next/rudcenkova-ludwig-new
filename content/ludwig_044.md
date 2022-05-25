@@ -1,8 +1,7 @@
 ---
+title: Bérénice Abbott
 contentType: prose
 ---
-
-## Bérénice Abbott
 
 (Helence)
 

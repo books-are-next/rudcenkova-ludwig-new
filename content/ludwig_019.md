@@ -1,8 +1,7 @@
 ---
+title: Teď
 contentType: prose
 ---
-
-## Teď
 
 Nahmátnout ve tmě ňadro ještě teplé  
 rukou ještě ne tak rozechvělou

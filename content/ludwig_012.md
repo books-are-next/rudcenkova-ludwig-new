@@ -1,8 +1,7 @@
 ---
+title: A půjdeme
 contentType: prose
 ---
-
-## A půjdeme
 
 A půjdeme. A světlo z domů proline  
 až skrze stromy k nám. A staneme  

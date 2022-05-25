@@ -1,8 +1,7 @@
 ---
+title: Tam, kde jsme spali včera
 contentType: prose
 ---
-
-## Tam, kde jsme spali včera
 
 Tam, kde jsme spali včera  
 uléháme dneska znovu

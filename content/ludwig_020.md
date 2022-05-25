@@ -1,8 +1,7 @@
 ---
+title: Ještě brzy
 contentType: prose
 ---
-
-## Ještě brzy
 
 Neponechán  
 přichází ve snu  

@@ -1,8 +1,7 @@
 ---
+title: Hříchy
 contentType: prose
 ---
-
-## Hříchy
 
 Jest jedna plocha v světě  
 na které všechno umírá  

@@ -1,8 +1,7 @@
 ---
+title: Jako by vedle…
 contentType: prose
 ---
-
-## Jako by vedle…
 
 Už nechci nic  
 a už nic nečekám

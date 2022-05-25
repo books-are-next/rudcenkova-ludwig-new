@@ -1,8 +1,7 @@
 ---
+title: Elegie usmíření
 contentType: prose
 ---
-
-## Elegie usmíření
 
 Tak rozedrán se lámu do ticha  
 jsou skla tu zakalena ve tvých dveřích  

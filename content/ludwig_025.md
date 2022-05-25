@@ -1,8 +1,7 @@
 ---
+title: Píseň, kterou zpívá Ludwigovi smrt
 contentType: prose
 ---
-
-## Píseň, kterou zpívá Ludwigovi smrt
 
 Přijdeš-li tiše  
 přijdeš-li vůbec  

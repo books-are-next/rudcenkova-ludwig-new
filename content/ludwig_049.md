@@ -1,8 +1,7 @@
 ---
+title: Jsi černá
 contentType: prose
 ---
-
-## Jsi černá
 
 Jsi černá v hrdle spolklý stín  
 jsi voda v řece rozpáleným tělům  

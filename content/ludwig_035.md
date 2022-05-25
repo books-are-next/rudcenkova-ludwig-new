@@ -1,8 +1,7 @@
 ---
+title: Žolík
 contentType: prose
 ---
-
-## Žolík
 
 Usaď se na tuto truhlu  
 a zadrž dech.

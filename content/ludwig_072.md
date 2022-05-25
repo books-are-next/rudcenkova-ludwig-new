@@ -1,8 +1,7 @@
 ---
+title: Cirk
 contentType: prose
 ---
-
-## Cirk
 
 Opřen o hrdlo  
 tančí na holi  

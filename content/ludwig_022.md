@@ -1,8 +1,7 @@
 ---
+title: Strach
 contentType: prose
 ---
-
-## Strach
 
 Znamení osudu zapomněla vyvrcholit  
 Zbavit se svého těla by byl dobrý začátek

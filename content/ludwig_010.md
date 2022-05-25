@@ -1,8 +1,7 @@
 ---
+title: Wesele pulsuje
 contentType: prose
 ---
-
-## Wesele pulsuje
 
 Tanec. Těla, tu zneuctěná, tu znuděná.  
 Zaklapne víko, zachrastí řetězy,  

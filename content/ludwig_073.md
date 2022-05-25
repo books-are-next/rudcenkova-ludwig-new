@@ -1,8 +1,7 @@
 ---
+title: Podzim
 contentType: prose
 ---
-
-## Podzim
 
 Jak padá, zadržuje dech  
 práchniví voli kloužou  

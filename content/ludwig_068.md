@@ -1,8 +1,7 @@
 ---
+title: '* * *'
 contentType: prose
 ---
-
-## \* \* \*
 
 Na břehu pod nímž se odrazy těl  
 chvějí v hladině  

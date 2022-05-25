@@ -1,8 +1,7 @@
 ---
+title: A oči zavřít
 contentType: prose
 ---
-
-## A oči zavřít
 
 Museli jsme nejprv dlouho čekat,  
 než přišla úleva, ať už jakákoli,  

@@ -1,8 +1,7 @@
 ---
+title: Jitro
 contentType: prose
 ---
-
-## Jitro
 
 Slunce září jako by se chtělo  
 narodit břichem,  

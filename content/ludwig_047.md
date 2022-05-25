@@ -1,8 +1,7 @@
 ---
+title: Sfinga
 contentType: prose
 ---
-
-## Sfinga
 
 Čočka se válí na zemi mezi popelem  
 „Přeber si to“  

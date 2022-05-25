@@ -1,8 +1,7 @@
 ---
+title: Čtenář Thomase Bernharda
 contentType: prose
 ---
-
-## Čtenář Thomase Bernharda
 
 (Hra Minetti)
 

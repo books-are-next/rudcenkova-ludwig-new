@@ -1,8 +1,7 @@
 ---
+title: Se studem
 contentType: prose
 ---
-
-## Se studem
 
 V tmavé zásuvce  
 v ohybech rozlámané  

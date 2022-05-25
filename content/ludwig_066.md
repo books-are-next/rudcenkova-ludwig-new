@@ -1,8 +1,7 @@
 ---
+title: Mračna
 contentType: prose
 ---
-
-## Mračna
 
 A kolik havranů se zjeví nad náspem u dálnice  
 tolik let že potrvá můj život?

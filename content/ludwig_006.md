@@ -1,8 +1,7 @@
 ---
+title: Vím, kde
 contentType: prose
 ---
-
-## Vím, kde
 
 Vím, čím se zachvívají listy  
 vím, odkud se bere strach a odkud vzlyk  
