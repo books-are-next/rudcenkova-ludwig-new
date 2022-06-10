@@ -3,6 +3,8 @@ title: Tam, kde jsme spali včera
 contentType: prose
 ---
 
+<section>
+
 Tam, kde jsme spali včera  
 uléháme dneska znovu
 
@@ -14,3 +16,5 @@ nevidět na sebe nemluvit spolu
 
 nechat si zdát o jiném místě  
 s jiným doutníkem a s jiným tělem
+
+</section>

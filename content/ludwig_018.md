@@ -3,6 +3,8 @@ title: Čtenář Thomase Bernharda
 contentType: prose
 ---
 
+<section>
+
 (Hra Minetti)
 
 Maska na hlavě / a punčochy na nohách  
@@ -20,3 +22,5 @@ Dáma prochází kolem, nese si na podnose
 dvě láhve šampaňského.
 
 Zina zavěsí a v pokoji je opět ticho.
+
+</section>

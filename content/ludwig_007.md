@@ -3,6 +3,8 @@ title: Hříchy
 contentType: prose
 ---
 
+<section>
+
 Jest jedna plocha v světě  
 na které všechno umírá  
 po té jde on,  
@@ -24,3 +26,5 @@ byli zapovězeni.
 Tam, kde je tma, se jenom hmatá  
 Tam za oponou dějí se  
 strašné a přehluboké hříchy.
+
+</section>

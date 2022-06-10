@@ -3,6 +3,8 @@ title: Strach
 contentType: prose
 ---
 
+<section>
+
 Znamení osudu zapomněla vyvrcholit  
 Zbavit se svého těla by byl dobrý začátek
 
@@ -24,3 +26,5 @@ duchem
 Omdlít při každém pohledu do zrcadla  
 Hnus dojetí lítost hnus Zázračný kruh  
 z něhož zvolna a tajně vytéká krev
+
+</section>

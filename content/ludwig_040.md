@@ -3,6 +3,8 @@ title: Jezero
 contentType: prose
 ---
 
+<section>
+
 ### I
 
 Jezero plné peří v něj dopadlo tvé  
@@ -11,3 +13,5 @@ ven z kádí je tma nemocné ryby chodí
 okolo naříkají si na sucho a ty nejdeš  
 nemůžeš se vynořit zůstalas u dna  
 dusíš se
+
+</section>

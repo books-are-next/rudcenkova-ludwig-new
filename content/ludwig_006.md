@@ -3,6 +3,8 @@ title: Vím, kde
 contentType: prose
 ---
 
+<section>
+
 Vím, čím se zachvívají listy  
 vím, odkud se bere strach a odkud vzlyk  
 znám to tiché místo mezi stromy
@@ -18,3 +20,5 @@ neb já jsem všechno, co je prázdné
 Neb já jsem bolest  
 rána plná krve  
 ze které pije den, jenž nemá přijít
+
+</section>

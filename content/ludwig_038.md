@@ -3,6 +3,8 @@ title: Sémě
 contentType: prose
 ---
 
+<section>
+
 Jdeš zakrýváš si oči  
 nerozpuštěné vlasy  
 tečou po zádech  
@@ -21,3 +23,5 @@ jako posté marně vyrosené
 sémě  
 jako posté nedožitá noc  
 nedomrlých dětí
+
+</section>

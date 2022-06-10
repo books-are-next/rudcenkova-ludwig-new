@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 Za ledovým sklem padají osamělé vločky  
 doma v teple se svítí  
                                        do noci
@@ -23,3 +25,5 @@ v tvé péči však opadaly
 dechem se rozdrobily  
                                        ledové  
                                        ledové její prsty
+
+</section>

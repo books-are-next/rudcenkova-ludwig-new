@@ -3,6 +3,8 @@ title: Thombern
 contentType: prose
 ---
 
+<section>
+
 (Thomas Bernhard v pavilonu Hermann)
 
 Jsou zvrstveny  
@@ -35,3 +37,5 @@ před pavilonem Ernst
 je jaro  
 brzy nashledanou  
 na oslavě narozenin strýce Joachima
+
+</section>

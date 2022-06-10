@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 Trhavě sune se jako vlk sněhem  
 to co mě zatěžuje  
 je mnou zatěžkáno  
@@ -17,3 +19,5 @@ bojím se, že už nic nenapíšu
 že se odplavím  
 s jarním sněhem  
 do šeptavých údolí
+
+</section>

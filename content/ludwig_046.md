@@ -3,6 +3,8 @@ title: Rybí blues
 contentType: prose
 ---
 
+<section>
+
 Sedím pod stromem  
 čekám na tebe  
 nejdeš
@@ -38,3 +40,5 @@ můj skon skok do vířících hlubin
 osmažím sním tě rybo rozřezaná k smíchu  
 to je celé  
 to je celé
+
+</section>

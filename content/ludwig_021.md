@@ -3,6 +3,8 @@ title: Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
 contentType: prose
 ---
 
+<section>
+
 Osleplý či odvážný  
 postoupen iluzi.  
 Je ona až skrze mne?  
@@ -27,3 +29,5 @@ veškerých gest a citů.
 
 Leč stále ještě živá  
 vzpomínka na kroužení kolem Glossopu.
+
+</section>

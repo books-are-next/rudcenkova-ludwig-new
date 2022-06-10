@@ -3,6 +3,8 @@ title: Pocta Sfinze
 contentType: prose
 ---
 
+<section>
+
 A odkud — zhloubi? —  
 zaznívají trylky rozjívených  
 trolů. Ach vniknout do  
@@ -15,3 +17,5 @@ Znám jenom prsy od pohledu
 a někde v hloubi tebe tušit  
 zlověstný přetrpký  
 nakažený klín.
+
+</section>

@@ -3,6 +3,8 @@ title: Hrob
 contentType: prose
 ---
 
+<section>
+
 Uličkou podél hřbitova  
 tři ženy jdou.  
 Pravá ramena svěšená  
@@ -15,3 +17,5 @@ Ze školy dle bílé zdi
 tři dívenky  
 jdou  
 posedět u hrobu svých otců.
+
+</section>

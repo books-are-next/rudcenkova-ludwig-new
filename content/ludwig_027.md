@@ -3,6 +3,8 @@ title: Elegie usmíření
 contentType: prose
 ---
 
+<section>
+
 Tak rozedrán se lámu do ticha  
 jsou skla tu zakalena ve tvých dveřích  
 v nichž se siluety mých gest  
@@ -29,3 +31,5 @@ moci tak začít ještě jednou nic by se nezměnilo
 
 Byla to jedna z mnoha cest  
 jediným možným směrem
+
+</section>

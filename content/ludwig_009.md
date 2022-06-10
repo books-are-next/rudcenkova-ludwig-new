@@ -3,6 +3,8 @@ title: Hlavní postavy
 contentType: prose
 ---
 
+<section>
+
 Vlaštovky se rozstřikují po nebi  
 hřmí zpoza popelnic
 
@@ -23,3 +25,5 @@ V jiné čtvrti u řeky hrají kroket
 Někdo se ke smrti proťuká palicí
 
 Nakonec jako by všechno vskutku umlkalo.
+
+</section>

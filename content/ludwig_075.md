@@ -3,6 +3,8 @@ title: Se studem
 contentType: prose
 ---
 
+<section>
+
 V tmavé zásuvce  
 v ohybech rozlámané  
 verše studenta
@@ -39,3 +41,5 @@ hledat ho vně sebe
 ale nikdy takových
 
 otče
+
+</section>

@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 Bojím se že nikdo nepřijde a nezazvoní  
                             I kdyby  
 Na stole voní pečené ruce  
@@ -15,3 +17,5 @@ neroztlučený
 Něco se nakonec stát musí  
                             I kdyby jenom nepatrná  
                  smrt
+
+</section>

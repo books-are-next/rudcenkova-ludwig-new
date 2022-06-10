@@ -3,6 +3,8 @@ title: Noční show
 contentType: prose
 ---
 
+<section>
+
 Jsem bez nohou a sedím za komínem  
 (navštivte mne)  
 Mé nohy za mnou v noci chodí  
@@ -34,3 +36,5 @@ a stoupá s ranní mlhou
 zpátky za komín
 
 tam dlí
+
+</section>

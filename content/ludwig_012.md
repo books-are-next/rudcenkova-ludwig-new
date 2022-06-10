@@ -3,6 +3,8 @@ title: A půjdeme
 contentType: prose
 ---
 
+<section>
+
 A půjdeme. A světlo z domů proline  
 až skrze stromy k nám. A staneme  
 tam, kde je nejsladčeji. V podzemním  
@@ -29,3 +31,5 @@ na okamžik na záblesk zářícího oka.
 Copak? Copak se stalo? Snad ne strach?  
 Snad neprcháte jinam?  
 Je plamen pod chodidly příliš žhavý?
+
+</section>

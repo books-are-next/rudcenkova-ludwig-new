@@ -3,6 +3,8 @@ title: Jsi černá
 contentType: prose
 ---
 
+<section>
+
 Jsi černá v hrdle spolklý stín  
 jsi voda v řece rozpáleným tělům  
 máš sedmero proměn  
@@ -47,3 +49,5 @@ vzývám co bylo
 co se prosáklo skrz zem  
 zasyklo shořelo a my  
 proč už nejsme spolu!
+
+</section>

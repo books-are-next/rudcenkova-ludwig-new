@@ -3,6 +3,8 @@ title: Setkání 3\.3\.97
 contentType: prose
 ---
 
+<section>
+
 Na rohu Národní stála drobná žena  
 kolem krku uvázaný bílý šál  
 ten se za ní táhl tmou přes Vltavu na druhý břeh
@@ -21,3 +23,5 @@ až na dno stoky z které čpěla
 poslední přestárlá a první nedospělá březí noc
 
 Ona břeh — já břeh
+
+</section>

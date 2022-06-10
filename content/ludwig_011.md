@@ -3,6 +3,8 @@ title: Strašně líný Ludwig
 contentType: prose
 ---
 
+<section>
+
 Smrchule bledá se roztřásla nevděkem  
 vzteká se že se po ní hnedle nevrhám  
 černá je zbaběle točí se ke mně zády  
@@ -19,3 +21,5 @@ kávu usrknu
 z lógru si vyvěstím pokojnou tichou smrt  
 pokojnou nehybnou ženu na úklid  
 mých nahlodaných kostí
+
+</section>

@@ -3,6 +3,8 @@ title: Cirk
 contentType: prose
 ---
 
+<section>
+
 Opřen o hrdlo  
 tančí na holi  
 tanec o hadru
@@ -19,3 +21,5 @@ vyskakují zubři
 A v kleci ještě  
 čeká na svůj výstup  
 herec
+
+</section>

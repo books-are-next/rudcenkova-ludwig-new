@@ -3,6 +3,8 @@ title: Píseň, kterou zpívá Ludwigovi smrt
 contentType: prose
 ---
 
+<section>
+
 Přijdeš-li tiše  
 přijdeš-li vůbec  
 chci abys přilétl v hejnech  
@@ -23,3 +25,5 @@ do nestoudného objetí
 tvých třesoucích se  
 rozpadávajících se  
 svalů
+
+</section>
