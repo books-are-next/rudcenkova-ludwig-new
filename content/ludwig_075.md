@@ -17,7 +17,7 @@ Vyšla jsem do tmy pršelo
      noc“
 
 Jak déšť dopadá  
-                              napadá mě  
+             napadá mě  
 jestliže tě odteď uvidím  
 odcházet se studem  
 který jsi kdysi odhalil  

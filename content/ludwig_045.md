@@ -7,11 +7,11 @@ contentType: prose
 
 Za ledovým sklem padají osamělé vločky  
 doma v teple se svítí  
-                                       do noci
+             do noci
 
 přijíždí tažená koňmi  
 obejme tě  
-                                       neslyšně
+             neslyšně
 
 jako když se  
 pomalu  
@@ -23,7 +23,7 @@ prsty dechem zahříval
 
 v tvé péči však opadaly  
 dechem se rozdrobily  
-                                       ledové  
-                                       ledové její prsty
+             ledové  
+             ledové její prsty
 
 </section>
