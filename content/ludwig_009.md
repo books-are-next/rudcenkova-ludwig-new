@@ -1,6 +1,6 @@
 ---
 title: Hlavní postavy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

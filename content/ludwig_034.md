@@ -1,6 +1,6 @@
 ---
 title: Noční show
-contentType: prose
+contentType: poetry
 ---
 
 <section>

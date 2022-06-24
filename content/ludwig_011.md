@@ -1,6 +1,6 @@
 ---
 title: Strašně líný Ludwig
-contentType: prose
+contentType: poetry
 ---
 
 <section>

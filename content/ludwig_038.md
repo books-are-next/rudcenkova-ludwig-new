@@ -1,6 +1,6 @@
 ---
 title: Sémě
-contentType: prose
+contentType: poetry
 ---
 
 <section>

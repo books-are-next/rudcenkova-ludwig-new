@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: BŘEH
+contentType: poetry
 ---
 
-<section>
 
-# BŘEH
-
-</section>

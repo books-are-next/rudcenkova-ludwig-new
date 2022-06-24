@@ -1,6 +1,6 @@
 ---
 title: Teď
-contentType: prose
+contentType: poetry
 ---
 
 <section>

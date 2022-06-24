@@ -1,6 +1,6 @@
 ---
 title: Tam, kde jsme spali včera
-contentType: prose
+contentType: poetry
 ---
 
 <section>

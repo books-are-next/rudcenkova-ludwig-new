@@ -1,6 +1,6 @@
 ---
 title: Podzim
-contentType: prose
+contentType: poetry
 ---
 
 <section>

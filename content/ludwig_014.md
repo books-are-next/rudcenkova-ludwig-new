@@ -1,6 +1,6 @@
 ---
 title: A oči zavřít
-contentType: prose
+contentType: poetry
 ---
 
 <section>

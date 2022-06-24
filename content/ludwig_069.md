@@ -1,6 +1,6 @@
 ---
 title: Pozvolna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

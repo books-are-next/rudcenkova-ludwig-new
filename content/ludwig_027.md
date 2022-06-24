@@ -1,6 +1,6 @@
 ---
 title: Elegie usmíření
-contentType: prose
+contentType: poetry
 ---
 
 <section>

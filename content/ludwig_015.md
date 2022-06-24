@@ -1,6 +1,6 @@
 ---
 title: Thea
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,8 +11,8 @@ za křišťálový
 
 Velká potřeba komunikace  
 Nepřehledná společnost  
-I would like to meet you  
-about four
+_I would like to meet you  
+about four_
 
 Kdosi o tichu  
 Kdosi o samotě žvaní  

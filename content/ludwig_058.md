@@ -1,6 +1,6 @@
 ---
 title: Zimní haiku
-contentType: prose
+contentType: poetry
 ---
 
 <section>

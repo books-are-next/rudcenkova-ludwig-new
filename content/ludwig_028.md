@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: ZJEVY
+contentType: poetry
 ---
 
-<section>
 
-# ZJEVY
-
-</section>

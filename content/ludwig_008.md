@@ -1,6 +1,6 @@
 ---
 title: Ludwig
-contentType: prose
+contentType: poetry
 ---
 
 <section>

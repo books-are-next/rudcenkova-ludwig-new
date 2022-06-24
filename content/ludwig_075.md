@@ -1,6 +1,6 @@
 ---
 title: Se studem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,10 +11,10 @@ verše studenta
 
 Vyšla jsem do tmy pršelo
 
-     „teď klečím a hlavu bořím do sněhu  
+     _„teď klečím a hlavu bořím do sněhu  
      kde vůně Tvých vlasů  
      stvořila pro mě poslední  
-     noc“
+     noc“_
 
 Jak déšť dopadá  
              napadá mě  
@@ -25,8 +25,8 @@ v milostných básních
 matce  
 naleznu tak klid
 
-      „a bude-li mi odpuštěno  
-     pak jak sám sobě odpustím“
+      _„a bude-li mi odpuštěno  
+     pak jak sám sobě odpustím“_
 
 Nebude mi více třeba  
 hledat ho vně sebe

@@ -1,6 +1,6 @@
 ---
 title: Haiku k podpírání
-contentType: prose
+contentType: poetry
 ---
 
 <section>

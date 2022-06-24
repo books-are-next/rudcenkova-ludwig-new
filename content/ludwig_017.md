@@ -1,11 +1,11 @@
 ---
 title: Thombern
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-(Thomas Bernhard v pavilonu Hermann)
+_(Thomas Bernhard v pavilonu Hermann)_
 
 Jsou zvrstveny  
 jako bychom si mohli dovolit  

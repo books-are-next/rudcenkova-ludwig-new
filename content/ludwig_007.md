@@ -1,6 +1,6 @@
 ---
 title: Hříchy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

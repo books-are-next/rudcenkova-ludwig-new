@@ -1,11 +1,11 @@
 ---
 title: Z města
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-(Lucii N.)
+_(Lucii N.)_
 
 Sevřeni  
 mezi křídla špinavých ptáků  

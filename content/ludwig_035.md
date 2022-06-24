@@ -1,6 +1,6 @@
 ---
 title: Žolík
-contentType: prose
+contentType: poetry
 ---
 
 <section>

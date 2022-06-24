@@ -1,6 +1,6 @@
 ---
 title: Po večeři
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Strach
-contentType: prose
+contentType: poetry
 ---
 
 <section>

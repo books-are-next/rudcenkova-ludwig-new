@@ -1,11 +1,11 @@
 ---
 title: Bérénice Abbott
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-(Helence)
+_(Helence)_
 
 Ach její oči.
 

@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: UBLEDLÁ
+contentType: poetry
 ---
 
-<section>
 
-# UBLEDLÁ
-
-</section>

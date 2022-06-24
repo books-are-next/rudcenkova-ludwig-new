@@ -1,6 +1,6 @@
 ---
 title: Jako by vedle…
-contentType: prose
+contentType: poetry
 ---
 
 <section>

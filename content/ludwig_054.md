@@ -1,6 +1,6 @@
 ---
 title: Milostné haiku
-contentType: prose
+contentType: poetry
 ---
 
 <section>

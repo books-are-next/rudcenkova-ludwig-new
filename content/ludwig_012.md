@@ -1,6 +1,6 @@
 ---
 title: A půjdeme
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: HAIKU
+contentType: poetry
 ---
 
-<section>
 
-# HAIKU
-
-</section>

@@ -1,6 +1,6 @@
 ---
 title: Sfinga
-contentType: prose
+contentType: poetry
 ---
 
 <section>

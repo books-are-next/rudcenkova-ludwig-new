@@ -1,6 +1,6 @@
 ---
 title: Jsi černá
-contentType: prose
+contentType: poetry
 ---
 
 <section>

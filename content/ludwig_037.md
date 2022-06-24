@@ -1,6 +1,6 @@
 ---
 title: Ústřičná
-contentType: prose
+contentType: poetry
 ---
 
 <section>

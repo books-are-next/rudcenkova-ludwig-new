@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-### III
+## III
 
 Skrz prosklené tabule dveří je to tvůj stín tvá loď  
 tvůj koráb obrácená střecha letohrádku  

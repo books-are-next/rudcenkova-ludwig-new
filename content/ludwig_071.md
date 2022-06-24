@@ -1,6 +1,6 @@
 ---
 title: Hrob
-contentType: prose
+contentType: poetry
 ---
 
 <section>

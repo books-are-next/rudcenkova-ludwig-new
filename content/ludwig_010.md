@@ -1,6 +1,6 @@
 ---
 title: Wesele pulsuje
-contentType: prose
+contentType: poetry
 ---
 
 <section>

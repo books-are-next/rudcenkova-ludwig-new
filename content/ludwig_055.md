@@ -1,6 +1,6 @@
 ---
 title: Kuřácké haiku
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Ještě brzy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

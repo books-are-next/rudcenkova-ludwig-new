@@ -1,6 +1,6 @@
 ---
 title: Studny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

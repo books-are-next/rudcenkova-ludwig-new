@@ -1,6 +1,6 @@
 ---
 title: Vím, kde
-contentType: prose
+contentType: poetry
 ---
 
 <section>

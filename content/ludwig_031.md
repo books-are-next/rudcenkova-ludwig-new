@@ -1,6 +1,6 @@
 ---
 title: Okamžik
-contentType: prose
+contentType: poetry
 ---
 
 <section>

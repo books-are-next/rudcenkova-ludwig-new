@@ -1,6 +1,6 @@
 ---
 title: Zdá se
-contentType: prose
+contentType: poetry
 ---
 
 <section>

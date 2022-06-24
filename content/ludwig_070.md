@@ -1,11 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: Z ÚSTRANÍ DO ZÁVĚTŘÍ
+contentType: poetry
 ---
 
-<section>
 
-# Z ÚSTRANÍ  
-DO ZÁVĚTŘÍ
-
-</section>

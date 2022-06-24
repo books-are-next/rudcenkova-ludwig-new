@@ -1,6 +1,6 @@
 ---
 title: Setkání 3\.3\.97
-contentType: prose
+contentType: poetry
 ---
 
 <section>

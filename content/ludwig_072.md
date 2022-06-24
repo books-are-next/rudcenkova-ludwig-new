@@ -1,6 +1,6 @@
 ---
 title: Cirk
-contentType: prose
+contentType: poetry
 ---
 
 <section>

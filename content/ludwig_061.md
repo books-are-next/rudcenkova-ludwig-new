@@ -1,6 +1,6 @@
 ---
 title: Porozechvělý
-contentType: prose
+contentType: poetry
 ---
 
 <section>

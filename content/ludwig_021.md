@@ -1,6 +1,6 @@
 ---
 title: Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
-contentType: prose
+contentType: poetry
 ---
 
 <section>

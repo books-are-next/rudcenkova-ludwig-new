@@ -1,6 +1,6 @@
 ---
 title: Mračna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

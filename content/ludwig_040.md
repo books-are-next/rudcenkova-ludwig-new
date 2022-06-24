@@ -1,11 +1,11 @@
 ---
 title: Jezero
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-### I
+## I
 
 Jezero plné peří v něj dopadlo tvé  
 tělo vzbouřilo vlny přelévají se labutě  

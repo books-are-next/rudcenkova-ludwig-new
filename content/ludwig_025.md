@@ -1,6 +1,6 @@
 ---
 title: Píseň, kterou zpívá Ludwigovi smrt
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Je po všem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

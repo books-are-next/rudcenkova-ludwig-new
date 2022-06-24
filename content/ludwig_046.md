@@ -1,6 +1,6 @@
 ---
 title: Rybí blues
-contentType: prose
+contentType: poetry
 ---
 
 <section>

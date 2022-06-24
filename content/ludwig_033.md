@@ -1,6 +1,6 @@
 ---
 title: Jitro
-contentType: prose
+contentType: poetry
 ---
 
 <section>

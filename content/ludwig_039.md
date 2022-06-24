@@ -1,6 +1,6 @@
 ---
 title: Svitky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

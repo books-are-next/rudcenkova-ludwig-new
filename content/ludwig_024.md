@@ -1,6 +1,6 @@
 ---
 title: Ludwig posté
-contentType: prose
+contentType: poetry
 ---
 
 <section>
