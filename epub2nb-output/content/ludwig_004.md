@@ -1,10 +1,21 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
+
+<section>
 
 Znění tohoto textu vychází z díla [Ludwig](https://aleph.nkp.cz/F/?func=direct&doc_number=000700376&local_base=NKC) tak, jak bylo vydáno nakladatelstvím Klokočí a Knihovna Jana Drdy v Praze a Příbrami v roce 1999. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
+</section>
+
+<section>
+
 * * *
+
+</section>
+
+<section>
 
 §
 
@@ -12,7 +23,14 @@ Text díla (Kateřina Rudčenková: Ludwig), publikovaného [Městskou knihovnou
 
 * * *
 
+  
+  
+
 * * *
+
+</section>
+
+<section>
 
 [![](./resources/image001.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 
@@ -20,6 +38,15 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 * * *
 
+  
+  
+
+</section>
+
+<section>
+
 Verze 1.0 z 30. 1. 2019.
 
 ![](../Images/image002.png)
+
+</section>

@@ -1,8 +1,11 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
-### III
+<section>
+
+## III
 
 Skrz prosklené tabule dveří je to tvůj stín tvá loď  
 tvůj koráb obrácená střecha letohrádku  
@@ -14,3 +17,5 @@ Prosím napij se dnes prvně vína
 uroň kapku krve poprvé dnes pro mne  
 na hlavě ti sedí havran a jeho prosté sdělení  
 : otvírá zobák …  zívá …  usíná
+
+</section>

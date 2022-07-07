@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Sfinga
+contentType: poetry
 ---
 
-## Sfinga
+<section>
 
 Čočka se válí na zemi mezi popelem  
 „Přeber si to“  
@@ -15,3 +16,5 @@ Klaní se té s nevyléčitelným oparem
 sám sebe považuje za mimozemšťana  
 — rozmlženi — jediná šance je  
 učinit z nemoci přednost.
+
+</section>

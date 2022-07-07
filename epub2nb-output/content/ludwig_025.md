@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Píseň, kterou zpívá Ludwigovi smrt
+contentType: poetry
 ---
 
-## Píseň, kterou zpívá Ludwigovi smrt
+<section>
 
 Přijdeš-li tiše  
 přijdeš-li vůbec  
@@ -24,3 +25,5 @@ do nestoudného objetí
 tvých třesoucích se  
 rozpadávajících se  
 svalů
+
+</section>

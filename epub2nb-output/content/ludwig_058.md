@@ -1,9 +1,12 @@
 ---
-contentType: prose
+title: Zimní haiku
+contentType: poetry
 ---
 
-## Zimní haiku
+<section>
 
 Pod ledem zmizel  
 náhodný bruslař. Do tmy  
 tiše padá sníh.
+
+</section>

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Elegie usmíření
+contentType: poetry
 ---
 
-## Elegie usmíření
+<section>
 
 Tak rozedrán se lámu do ticha  
 jsou skla tu zakalena ve tvých dveřích  
@@ -30,3 +31,5 @@ moci tak začít ještě jednou nic by se nezměnilo
 
 Byla to jedna z mnoha cest  
 jediným možným směrem
+
+</section>

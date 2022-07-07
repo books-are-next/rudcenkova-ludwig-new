@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Ještě brzy
+contentType: poetry
 ---
 
-## Ještě brzy
+<section>
 
 Neponechán  
 přichází ve snu  
@@ -16,3 +17,5 @@ smýká se domů vznítiti se
 
 Dnes ne  
 Dnes ještě brzy je
+
+</section>

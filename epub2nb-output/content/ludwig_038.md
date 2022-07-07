@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Sémě
+contentType: poetry
 ---
 
-## Sémě
+<section>
 
 Jdeš zakrýváš si oči  
 nerozpuštěné vlasy  
@@ -22,3 +23,5 @@ jako posté marně vyrosené
 sémě  
 jako posté nedožitá noc  
 nedomrlých dětí
+
+</section>

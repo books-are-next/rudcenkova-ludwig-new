@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Ústřičná
+contentType: poetry
 ---
 
-## Ústřičná
+<section>
 
 Půlím ústřici  
 její bledé údy se ještě chvějí  
@@ -19,3 +20,5 @@ na slunci třpytí se tvé střepy
 namokřelé  
 pojď pojím poobědvám tebou  
 ze rtů nakrvím tě ubledlá
+
+</section>

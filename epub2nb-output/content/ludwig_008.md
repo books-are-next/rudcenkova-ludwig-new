@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Ludwig
+contentType: poetry
 ---
 
-## Ludwig
+<section>
 
 Vše je načichlé kouřem.
 
@@ -18,3 +19,5 @@ okna se sypou
 z kamenných zdí lomu  
 zní chrchlání a chrapot  
 dotírajícího stáří.
+
+</section>

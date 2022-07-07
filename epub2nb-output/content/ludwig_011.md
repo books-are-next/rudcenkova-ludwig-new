@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Strašně líný Ludwig
+contentType: poetry
 ---
 
-## Strašně líný Ludwig
+<section>
 
 Smrchule bledá se roztřásla nevděkem  
 vzteká se že se po ní hnedle nevrhám  
@@ -20,3 +21,5 @@ kávu usrknu
 z lógru si vyvěstím pokojnou tichou smrt  
 pokojnou nehybnou ženu na úklid  
 mých nahlodaných kostí
+
+</section>

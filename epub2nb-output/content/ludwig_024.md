@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Ludwig posté
+contentType: poetry
 ---
 
-## Ludwig posté
+<section>
 
 Prohlubují se tyto otvory  
 a bolí.  
@@ -21,3 +22,5 @@ po téže replice
 on — větve sedrané  
 já — listí zdrženlivé k jeho povislé  
 a rozkývané nahotě
+
+</section>

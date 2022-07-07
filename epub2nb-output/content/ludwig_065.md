@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
 
-## \* \* \*
+<section>
 
 Trhavě sune se jako vlk sněhem  
 to co mě zatěžuje  
@@ -18,3 +19,5 @@ bojím se, že už nic nenapíšu
 že se odplavím  
 s jarním sněhem  
 do šeptavých údolí
+
+</section>

@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: UBLEDLÁ
+contentType: poetry
 ---
 
-# UBLEDLÁ
+

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Jsi černá
+contentType: poetry
 ---
 
-## Jsi černá
+<section>
 
 Jsi černá v hrdle spolklý stín  
 jsi voda v řece rozpáleným tělům  
@@ -48,3 +49,5 @@ vzývám co bylo
 co se prosáklo skrz zem  
 zasyklo shořelo a my  
 proč už nejsme spolu!
+
+</section>

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
 
-## \* \* \*
+<section>
 
 Ta žena má příliš velká ústa  
 proto tak sladce hraje na klarinet  
@@ -17,3 +18,5 @@ a zpívat
 před sebou měla klobouk  
 a její ctitelé bez nohou bez hlav  
 tančili kolem ní uctivý vážný swing
+
+</section>

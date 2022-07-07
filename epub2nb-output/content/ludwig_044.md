@@ -1,10 +1,11 @@
 ---
-contentType: prose
+title: Bérénice Abbott
+contentType: poetry
 ---
 
-## Bérénice Abbott
+<section>
 
-(Helence)
+_(Helence)_
 
 Ach její oči.
 
@@ -17,3 +18,5 @@ u opony klečím
 tys bílá nevinná
 
 a chlípná
+
+</section>

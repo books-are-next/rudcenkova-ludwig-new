@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Studny
+contentType: poetry
 ---
 
-## Studny
+<section>
 
 Tělo prochvělé studem  
 po stěnách studen mech se krade  
@@ -13,3 +14,5 @@ neb v zatopeném lomu
 dnes v noci posté  
 zase poprvé  
 dej se mi
+
+</section>

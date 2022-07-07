@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
+contentType: poetry
 ---
 
-## Píseň, kterou zpívá Ludwigovi jeho sestra Ritter
+<section>
 
 Osleplý či odvážný  
 postoupen iluzi.  
@@ -28,3 +29,5 @@ veškerých gest a citů.
 
 Leč stále ještě živá  
 vzpomínka na kroužení kolem Glossopu.
+
+</section>

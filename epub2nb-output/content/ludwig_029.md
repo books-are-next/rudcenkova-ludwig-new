@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Setkání 3\.3\.97
+contentType: poetry
 ---
 
-## Setkání 3.3.97
+<section>
 
 Na rohu Národní stála drobná žena  
 kolem krku uvázaný bílý šál  
@@ -22,3 +23,5 @@ až na dno stoky z které čpěla
 poslední přestárlá a první nedospělá březí noc
 
 Ona břeh — já břeh
+
+</section>

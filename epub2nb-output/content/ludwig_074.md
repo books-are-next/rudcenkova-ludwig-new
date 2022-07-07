@@ -1,10 +1,11 @@
 ---
-contentType: prose
+title: Z města
+contentType: poetry
 ---
 
-## Z města
+<section>
 
-(Lucii N.)
+_(Lucii N.)_
 
 Sevřeni  
 mezi křídla špinavých ptáků  
@@ -34,3 +35,5 @@ dům s kuřími křídly
 který sem zalít  
 z města  
 nazobat se ticha
+
+</section>

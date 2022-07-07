@@ -1,9 +1,12 @@
 ---
-contentType: prose
+title: Milostné haiku
+contentType: poetry
 ---
 
-## Milostné haiku
+<section>
 
 Odhrnul ti vlas.  
 Zůstala pod ním černá  
 prasklina čela.
+
+</section>

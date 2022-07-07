@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Po večeři
+contentType: poetry
 ---
 
-## Po večeři
+<section>
 
 Po večeři se hosté rozešli  
 tlustí se odvalili pozlacení odtekli  
@@ -29,3 +30,5 @@ leklou
 u hubičky s pěnou  
 svou milenku v tůni mihnout se uvidí  
 rybku do úst vkládá její růžové propečené maso
+
+</section>

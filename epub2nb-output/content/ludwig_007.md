@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Hříchy
+contentType: poetry
 ---
 
-## Hříchy
+<section>
 
 Jest jedna plocha v světě  
 na které všechno umírá  
@@ -25,3 +26,5 @@ byli zapovězeni.
 Tam, kde je tma, se jenom hmatá  
 Tam za oponou dějí se  
 strašné a přehluboké hříchy.
+
+</section>

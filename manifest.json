@@ -5,10 +5,11 @@
   "title": "Ludwig",
   "author": "Kateřina Rudčenková",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rudcenkova-ludwig-3a2e38c",
-  "revision": "3a2e38c",
+  "identifier": "rudcenkova-ludwig-428f2cc",
+  "revision": "428f2cc",
   "readingOrder": [
     "promo.html",
     "ludwig_001.html",
@@ -90,8 +91,8 @@
     "ludwig_077.html"
   ],
   "generatedAt": {
-    "date": "Wed May 25 2022 04:57:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653454658107
+    "date": "Thu Jul 07 2022 10:34:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657190068240
   },
   "documents": [
     {
@@ -109,9 +110,9 @@
     {
       "title": "Ludwig",
       "file": "ludwig_001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -129,9 +130,9 @@
     {
       "title": "Ludwig",
       "file": "ludwig_002.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 2,
       "prev": "ludwig_001.html",
@@ -187,7 +188,7 @@
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "LUDWIG",
       "file": "ludwig_005.html",
       "words": 16,
       "chars": 115,
@@ -200,21 +201,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
           "name": "LUDWIG",
-          "id": "ludwig",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Vím, kde",
       "file": "ludwig_006.html",
       "words": 74,
       "chars": 362,
@@ -227,22 +221,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Vím, kde",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Vím, kde",
-              "id": "vím-kde",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Hříchy",
       "file": "ludwig_007.html",
       "words": 86,
       "chars": 415,
@@ -255,17 +241,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hříchy",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hříchy",
-              "id": "hříchy",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -283,22 +261,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ludwig",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ludwig",
-              "id": "ludwig",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Hlavní postavy",
       "file": "ludwig_009.html",
       "words": 74,
       "chars": 402,
@@ -311,22 +281,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hlavní postavy",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hlavní postavy",
-              "id": "hlavní-postavy",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Wesele pulsuje",
       "file": "ludwig_010.html",
       "words": 59,
       "chars": 358,
@@ -339,22 +301,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Wesele pulsuje",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Wesele pulsuje",
-              "id": "wesele-pulsuje",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Strašně líný Ludwig",
       "file": "ludwig_011.html",
       "words": 90,
       "chars": 472,
@@ -367,22 +321,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Strašně líný Ludwig",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Strašně líný Ludwig",
-              "id": "strašně-líný-ludwig",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "A půjdeme",
       "file": "ludwig_012.html",
       "words": 112,
       "chars": 636,
@@ -395,22 +341,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "A půjdeme",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "A půjdeme",
-              "id": "anbsppůjdeme",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Zdá se",
       "file": "ludwig_013.html",
       "words": 37,
       "chars": 205,
@@ -423,22 +361,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zdá se",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Zdá se",
-              "id": "zdá-se",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "A oči zavřít",
       "file": "ludwig_014.html",
       "words": 89,
       "chars": 473,
@@ -451,22 +381,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "A oči zavřít",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "A oči zavřít",
-              "id": "anbspoči-zavřít",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Thea",
       "file": "ludwig_015.html",
       "words": 43,
       "chars": 235,
@@ -479,22 +401,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Thea",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Thea",
-              "id": "thea",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Tam, kde jsme spali včera",
       "file": "ludwig_016.html",
       "words": 42,
       "chars": 235,
@@ -507,22 +421,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tam, kde jsme spali včera",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Tam, kde jsme spali včera",
-              "id": "tam-kde-jsme-spali-včera",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Thombern",
       "file": "ludwig_017.html",
       "words": 116,
       "chars": 686,
@@ -535,22 +441,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Thombern",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Thombern",
-              "id": "thombern",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Čtenář Thomase Bernharda",
       "file": "ludwig_018.html",
       "words": 64,
       "chars": 348,
@@ -563,22 +461,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Čtenář Thomase Bernharda",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Čtenář Thomase Bernharda",
-              "id": "čtenář-thomase-bernharda",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Teď",
       "file": "ludwig_019.html",
       "words": 74,
       "chars": 418,
@@ -591,22 +481,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Teď",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Teď",
-              "id": "teď",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Ještě brzy",
       "file": "ludwig_020.html",
       "words": 33,
       "chars": 187,
@@ -619,22 +501,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ještě brzy",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ještě brzy",
-              "id": "ještě-brzy",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
       "file": "ludwig_021.html",
       "words": 92,
       "chars": 526,
@@ -647,22 +521,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
-              "id": "píseň-kterou-zpívá-ludwigovi-jeho-sestra-ritter",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Strach",
       "file": "ludwig_022.html",
       "words": 67,
       "chars": 395,
@@ -675,22 +541,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Strach",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Strach",
-              "id": "strach",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Jako by vedle…",
       "file": "ludwig_023.html",
       "words": 38,
       "chars": 204,
@@ -703,22 +561,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jako by vedle…",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Jako by vedle…",
-              "id": "jako-bynbspvedle",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Ludwig posté",
       "file": "ludwig_024.html",
       "words": 56,
       "chars": 309,
@@ -731,22 +581,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ludwig posté",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ludwig posté",
-              "id": "ludwig-posté",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Píseň, kterou zpívá Ludwigovi smrt",
       "file": "ludwig_025.html",
       "words": 63,
       "chars": 386,
@@ -759,22 +601,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Píseň, kterou zpívá Ludwigovi smrt",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Píseň, kterou zpívá Ludwigovi smrt",
-              "id": "píseň-kterou-zpívá-ludwigovi-smrt",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Je po všem",
       "file": "ludwig_026.html",
       "words": 51,
       "chars": 303,
@@ -787,22 +621,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Je po všem",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Je po všem",
-              "id": "jenbspponbspvšem",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Elegie usmíření",
       "file": "ludwig_027.html",
       "words": 127,
       "chars": 710,
@@ -815,22 +641,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Elegie usmíření",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Elegie usmíření",
-              "id": "elegie-usmíření",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "ZJEVY",
       "file": "ludwig_028.html",
       "words": 1,
       "chars": 5,
@@ -843,21 +661,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
           "name": "ZJEVY",
-          "id": "zjevy",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Setkání 3.3.97",
       "file": "ludwig_029.html",
       "words": 96,
       "chars": 493,
@@ -870,22 +681,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Setkání 3.3.97",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Setkání 3.3.97",
-              "id": "setkání-3397",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_030.html",
       "words": 76,
       "chars": 391,
@@ -898,22 +701,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Okamžik",
       "file": "ludwig_031.html",
       "words": 23,
       "chars": 147,
@@ -926,22 +721,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Okamžik",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Okamžik",
-              "id": "okamžik",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Po večeři",
       "file": "ludwig_032.html",
       "words": 82,
       "chars": 480,
@@ -954,22 +741,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Po večeři",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Po večeři",
-              "id": "ponbspvečeři",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Jitro",
       "file": "ludwig_033.html",
       "words": 49,
       "chars": 284,
@@ -982,22 +761,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jitro",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Jitro",
-              "id": "jitro",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Noční show",
       "file": "ludwig_034.html",
       "words": 106,
       "chars": 545,
@@ -1010,22 +781,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Noční show",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Noční show",
-              "id": "noční-show",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Žolík",
       "file": "ludwig_035.html",
       "words": 61,
       "chars": 335,
@@ -1038,22 +801,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Žolík",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Žolík",
-              "id": "žolík",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "UBLEDLÁ",
       "file": "ludwig_036.html",
       "words": 1,
       "chars": 7,
@@ -1066,21 +821,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
           "name": "UBLEDLÁ",
-          "id": "ubledlá",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Ústřičná",
       "file": "ludwig_037.html",
       "words": 50,
       "chars": 267,
@@ -1093,22 +841,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ústřičná",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ústřičná",
-              "id": "ústřičná",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Sémě",
       "file": "ludwig_038.html",
       "words": 47,
       "chars": 265,
@@ -1121,22 +861,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sémě",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Sémě",
-              "id": "sémě",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Svitky",
       "file": "ludwig_039.html",
       "words": 67,
       "chars": 401,
@@ -1149,22 +881,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Svitky",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Svitky",
-              "id": "svitky",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Jezero",
       "file": "ludwig_040.html",
       "words": 39,
       "chars": 195,
@@ -1177,23 +901,15 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jezero",
           "id": null,
           "children": [
             {
               "index": 1,
               "level": 2,
-              "name": "Jezero",
-              "id": "jezero",
-              "children": [
-                {
-                  "index": 2,
-                  "level": 3,
-                  "name": "I",
-                  "id": "i",
-                  "children": []
-                }
-              ]
+              "name": "I",
+              "id": "i",
+              "children": []
             }
           ]
         }
@@ -1215,7 +931,15 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -1235,12 +959,20 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Pocta Sfinze",
       "file": "ludwig_043.html",
       "words": 47,
       "chars": 279,
@@ -1253,22 +985,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pocta Sfinze",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pocta Sfinze",
-              "id": "pocta-sfinze",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Bérénice Abbott",
       "file": "ludwig_044.html",
       "words": 34,
       "chars": 193,
@@ -1281,22 +1005,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Bérénice Abbott",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Bérénice Abbott",
-              "id": "bérénice-abbott",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_045.html",
       "words": 48,
       "chars": 254,
@@ -1309,22 +1025,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Rybí blues",
       "file": "ludwig_046.html",
       "words": 143,
       "chars": 735,
@@ -1337,22 +1045,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Rybí blues",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Rybí blues",
-              "id": "rybí-blues",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Sfinga",
       "file": "ludwig_047.html",
       "words": 56,
       "chars": 315,
@@ -1365,22 +1065,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sfinga",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Sfinga",
-              "id": "sfinga",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Studny",
       "file": "ludwig_048.html",
       "words": 33,
       "chars": 177,
@@ -1393,22 +1085,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Studny",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Studny",
-              "id": "studny",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Jsi černá",
       "file": "ludwig_049.html",
       "words": 193,
       "chars": 1012,
@@ -1421,22 +1105,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jsi černá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Jsi černá",
-              "id": "jsi-černá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "HAIKU",
       "file": "ludwig_050.html",
       "words": 1,
       "chars": 5,
@@ -1449,21 +1125,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
           "name": "HAIKU",
-          "id": "haiku",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_051.html",
       "words": 12,
       "chars": 57,
@@ -1476,22 +1145,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_052.html",
       "words": 13,
       "chars": 55,
@@ -1504,22 +1165,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_053.html",
       "words": 13,
       "chars": 52,
@@ -1532,22 +1185,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Milostné haiku",
       "file": "ludwig_054.html",
       "words": 11,
       "chars": 66,
@@ -1560,22 +1205,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Milostné haiku",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Milostné haiku",
-              "id": "milostné-haiku",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Kuřácké haiku",
       "file": "ludwig_055.html",
       "words": 11,
       "chars": 62,
@@ -1588,22 +1225,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kuřácké haiku",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kuřácké haiku",
-              "id": "kuřácké-haiku",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_056.html",
       "words": 13,
       "chars": 60,
@@ -1616,22 +1245,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_057.html",
       "words": 12,
       "chars": 54,
@@ -1644,22 +1265,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Zimní haiku",
       "file": "ludwig_058.html",
       "words": 12,
       "chars": 65,
@@ -1672,22 +1285,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zimní haiku",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Zimní haiku",
-              "id": "zimní-haiku",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Haiku k podpírání",
       "file": "ludwig_059.html",
       "words": 15,
       "chars": 69,
@@ -1700,22 +1305,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Haiku k podpírání",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Haiku k podpírání",
-              "id": "haiku-knbsppodpírání",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_060.html",
       "words": 12,
       "chars": 52,
@@ -1728,22 +1325,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Porozechvělý",
       "file": "ludwig_061.html",
       "words": 12,
       "chars": 64,
@@ -1756,22 +1345,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Porozechvělý",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Porozechvělý",
-              "id": "porozechvělý",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_062.html",
       "words": 10,
       "chars": 49,
@@ -1784,22 +1365,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "BŘEH",
       "file": "ludwig_063.html",
       "words": 1,
       "chars": 4,
@@ -1812,21 +1385,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
           "name": "BŘEH",
-          "id": "břeh",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_064.html",
       "words": 36,
       "chars": 181,
@@ -1839,22 +1405,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_065.html",
       "words": 47,
       "chars": 246,
@@ -1867,22 +1425,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Mračna",
       "file": "ludwig_066.html",
       "words": 36,
       "chars": 193,
@@ -1895,22 +1445,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mračna",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Mračna",
-              "id": "mračna",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_067.html",
       "words": 20,
       "chars": 103,
@@ -1923,22 +1465,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_068.html",
       "words": 21,
       "chars": 93,
@@ -1951,22 +1485,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Pozvolna",
       "file": "ludwig_069.html",
       "words": 29,
       "chars": 182,
@@ -1979,26 +1505,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pozvolna",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pozvolna",
-              "id": "pozvolna",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Z ÚSTRANÍ DO ZÁVĚTŘÍ",
       "file": "ludwig_070.html",
       "words": 4,
-      "chars": 19,
-      "ideas": 2,
+      "chars": 20,
+      "ideas": 1,
       "role": "chapter",
       "order": 70,
       "prev": "ludwig_069.html",
@@ -2007,21 +1525,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Z ÚSTRANÍ DO ZÁVĚTŘÍ",
           "id": null,
-          "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Z ÚSTRANÍ",
-          "id": "znbspústraní",
           "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Hrob",
       "file": "ludwig_071.html",
       "words": 44,
       "chars": 240,
@@ -2034,22 +1545,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hrob",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hrob",
-              "id": "hrob",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Cirk",
       "file": "ludwig_072.html",
       "words": 40,
       "chars": 203,
@@ -2062,22 +1565,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Cirk",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Cirk",
-              "id": "cirk",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Podzim",
       "file": "ludwig_073.html",
       "words": 23,
       "chars": 118,
@@ -2090,22 +1585,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Podzim",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Podzim",
-              "id": "podzim",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Z města",
       "file": "ludwig_074.html",
       "words": 83,
       "chars": 450,
@@ -2118,22 +1605,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Z města",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Z města",
-              "id": "znbspměsta",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "Se studem",
       "file": "ludwig_075.html",
       "words": 96,
       "chars": 535,
@@ -2146,22 +1625,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Se studem",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Se studem",
-              "id": "senbspstudem",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Ludwig",
+      "title": "* * *",
       "file": "ludwig_076.html",
       "words": 33,
       "chars": 179,
@@ -2174,17 +1645,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -2211,14 +1674,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3713,
-      "chars": 20415,
-      "ideas": 885
+      "words": 3717,
+      "chars": 20425,
+      "ideas": 888
     },
     "chapters": {
-      "words": 3709,
-      "chars": 20385,
-      "ideas": 882
+      "words": 3711,
+      "chars": 20386,
+      "ideas": 883
     }
   }
 }

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Zdá se
+contentType: poetry
 ---
 
-## Zdá se
+<section>
 
 Zdá se mi, že domy vybělují  
 anebo šednou  
@@ -15,3 +16,5 @@ roztřepenými smyčci rozeznělé
 stále dokola táž slova  
 tytéž melodie  
 kamkoli vkročíš
+
+</section>

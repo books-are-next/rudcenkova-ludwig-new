@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Jitro
+contentType: poetry
 ---
 
-## Jitro
+<section>
 
 Slunce září jako by se chtělo  
 narodit břichem,  
@@ -14,3 +15,5 @@ Tři husy jako šípy letí nad katovnou.
 Večer se svítilo. Teď dospávají.  
 I kouřilo se. Dovychládá.  
 Ráno, ach ráno nad Suchdolem.
+
+</section>

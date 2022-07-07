@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Jako by vedle…
+contentType: poetry
 ---
 
-## Jako by vedle…
+<section>
 
 Už nechci nic  
 a už nic nečekám
@@ -16,3 +17,5 @@ smutněji lhostejnému k tomu
 
 Jako by vedle něco hnilo  
 Jako bych žil kdesi vedle sebe
+
+</section>

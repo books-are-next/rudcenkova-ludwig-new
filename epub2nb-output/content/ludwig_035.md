@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Žolík
+contentType: poetry
 ---
 
-## Žolík
+<section>
 
 Usaď se na tuto truhlu  
 a zadrž dech.
@@ -22,3 +23,5 @@ o mamutích norách.
 V ruletě sviští kulky  
 a v komíně se udí šunka  
 ze žolíčích prstů.
+
+</section>

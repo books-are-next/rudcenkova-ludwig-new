@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Je po všem
+contentType: poetry
 ---
 
-## Je po všem
+<section>
 
 Zase se přikrádá dávná touha  
 jak horká višeň ze tmy
@@ -20,3 +21,5 @@ hlediště vpadlé v zem
 
 Pohledy záchvěvy sterá mihnutí  
 jež nelze přivolat zpátky
+
+</section>

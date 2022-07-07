@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Cirk
+contentType: poetry
 ---
 
-## Cirk
+<section>
 
 Opřen o hrdlo  
 tančí na holi  
@@ -20,3 +21,5 @@ vyskakují zubři
 A v kleci ještě  
 čeká na svůj výstup  
 herec
+
+</section>

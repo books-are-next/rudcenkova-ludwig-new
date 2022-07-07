@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: A oči zavřít
+contentType: poetry
 ---
 
-## A oči zavřít
+<section>
 
 Museli jsme nejprv dlouho čekat,  
 než přišla úleva, ať už jakákoli,  
@@ -24,3 +25,5 @@ na stromy na stráni na hnízda much
 na lejna svinutá a hady zasyknuvší
 
 když nejvíce se chtělo mluvit.
+
+</section>

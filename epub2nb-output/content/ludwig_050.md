@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: HAIKU
+contentType: poetry
 ---
 
-# HAIKU
+

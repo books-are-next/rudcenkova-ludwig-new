@@ -10,6 +10,9 @@ meta:
   author: Kateřina Rudčenková
   publisher: Městská knihovna v Praze
   modified: '2019-01-30T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - ludwig_001.html
@@ -101,5 +104,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

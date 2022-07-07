@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Svitky
+contentType: poetry
 ---
 
-## Svitky
+<section>
 
 A zase dny plné hlemýžďů  
 vláčné jak tření těl  
@@ -22,3 +23,5 @@ rozevřená stehna
 rozbolavělá tolikerými chvaty  
 Raději spirály a pruhy než kola  
 raději zůstaň ležet natažená na zeď
+
+</section>

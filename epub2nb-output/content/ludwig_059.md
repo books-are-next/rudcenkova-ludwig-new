@@ -1,9 +1,12 @@
 ---
-contentType: prose
+title: Haiku k podpírání
+contentType: poetry
 ---
 
-## Haiku k podpírání
+<section>
 
 S berlou, bez nohou  
 a slepý válet sudy  
 z noci do noci.
+
+</section>

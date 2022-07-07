@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ZJEVY
+contentType: poetry
 ---
 
-# ZJEVY
+

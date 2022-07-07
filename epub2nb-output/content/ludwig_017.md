@@ -1,10 +1,11 @@
 ---
-contentType: prose
+title: Thombern
+contentType: poetry
 ---
 
-## Thombern
+<section>
 
-(Thomas Bernhard v pavilonu Hermann)
+_(Thomas Bernhard v pavilonu Hermann)_
 
 Jsou zvrstveny  
 jako bychom si mohli dovolit  
@@ -36,3 +37,5 @@ před pavilonem Ernst
 je jaro  
 brzy nashledanou  
 na oslavě narozenin strýce Joachima
+
+</section>

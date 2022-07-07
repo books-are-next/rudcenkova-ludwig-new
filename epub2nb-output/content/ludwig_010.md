@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Wesele pulsuje
+contentType: poetry
 ---
 
-## Wesele pulsuje
+<section>
 
 Tanec. Těla, tu zneuctěná, tu znuděná.  
 Zaklapne víko, zachrastí řetězy,  
@@ -14,3 +15,5 @@ Mezi příčkami hlava a mezi zuby vlasy.
 Touto cestou, posléze vpravo. Šaty splihlé  
 a mouchy ulepené. Nenajít se.  
 Hlasy: „Zase ne?“ „Ne.“
+
+</section>

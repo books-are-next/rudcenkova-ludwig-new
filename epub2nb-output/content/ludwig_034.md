@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Noční show
+contentType: poetry
 ---
 
-## Noční show
+<section>
 
 Jsem bez nohou a sedím za komínem  
 (navštivte mne)  
@@ -35,3 +36,5 @@ a stoupá s ranní mlhou
 zpátky za komín
 
 tam dlí
+
+</section>

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Hrob
+contentType: poetry
 ---
 
-## Hrob
+<section>
 
 Uličkou podél hřbitova  
 tři ženy jdou.  
@@ -16,3 +17,5 @@ Ze školy dle bílé zdi
 tři dívenky  
 jdou  
 posedět u hrobu svých otců.
+
+</section>

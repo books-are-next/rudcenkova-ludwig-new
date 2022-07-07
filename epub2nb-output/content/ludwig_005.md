@@ -1,12 +1,15 @@
 ---
-contentType: prose
+title: LUDWIG
+contentType: poetry
 ---
 
-# LUDWIG
+<section>
 
-Vzdáleně inspirováno  
+_Vzdáleně inspirováno  
 postavou Ludwiga  
 ze hry Ritter, Dene, Voss  
-rakouského dramatika Thomase Bernharda
+rakouského dramatika Thomase Bernharda_
 
-Praha 1998
+_Praha 1998_
+
+</section>
