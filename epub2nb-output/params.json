@@ -91,11 +91,12 @@
             "xhtml": "ludwig_005.html",
             "id": 4,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "LUDWIG",
             "children": [
               {
                 "filename": "ludwig_006.md",
@@ -107,8 +108,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vím, kde"
+                "title": "Vím, kde",
+                "children": []
               },
               {
                 "filename": "ludwig_007.md",
@@ -120,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hříchy"
+                "title": "Hříchy",
+                "children": []
               },
               {
                 "filename": "ludwig_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ludwig"
+                "title": "Ludwig",
+                "children": []
               },
               {
                 "filename": "ludwig_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hlavní postavy"
+                "title": "Hlavní postavy",
+                "children": []
               },
               {
                 "filename": "ludwig_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Wesele pulsuje"
+                "title": "Wesele pulsuje",
+                "children": []
               },
               {
                 "filename": "ludwig_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Strašně líný Ludwig"
+                "title": "Strašně líný Ludwig",
+                "children": []
               },
               {
                 "filename": "ludwig_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "A půjdeme"
+                "title": "A půjdeme",
+                "children": []
               },
               {
                 "filename": "ludwig_013.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zdá se"
+                "title": "Zdá se",
+                "children": []
               },
               {
                 "filename": "ludwig_014.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "A oči zavřít"
+                "title": "A oči zavřít",
+                "children": []
               },
               {
                 "filename": "ludwig_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Thea"
+                "title": "Thea",
+                "children": []
               },
               {
                 "filename": "ludwig_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tam, kde jsme spali včera"
+                "title": "Tam, kde jsme spali včera",
+                "children": []
               },
               {
                 "filename": "ludwig_017.md",
@@ -250,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Thombern"
+                "title": "Thombern",
+                "children": []
               },
               {
                 "filename": "ludwig_018.md",
@@ -263,8 +264,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čtenář Thomase Bernharda"
+                "title": "Čtenář Thomase Bernharda",
+                "children": []
               },
               {
                 "filename": "ludwig_019.md",
@@ -276,8 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Teď"
+                "title": "Teď",
+                "children": []
               },
               {
                 "filename": "ludwig_020.md",
@@ -289,8 +290,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ještě brzy"
+                "title": "Ještě brzy",
+                "children": []
               },
               {
                 "filename": "ludwig_021.md",
@@ -302,8 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter"
+                "title": "Píseň, kterou zpívá Ludwigovi jeho sestra Ritter",
+                "children": []
               },
               {
                 "filename": "ludwig_022.md",
@@ -315,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Strach"
+                "title": "Strach",
+                "children": []
               },
               {
                 "filename": "ludwig_023.md",
@@ -328,8 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jako by vedle…"
+                "title": "Jako by vedle…",
+                "children": []
               },
               {
                 "filename": "ludwig_024.md",
@@ -341,8 +342,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ludwig posté"
+                "title": "Ludwig posté",
+                "children": []
               },
               {
                 "filename": "ludwig_025.md",
@@ -354,8 +355,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píseň, kterou zpívá Ludwigovi smrt"
+                "title": "Píseň, kterou zpívá Ludwigovi smrt",
+                "children": []
               },
               {
                 "filename": "ludwig_026.md",
@@ -367,8 +368,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Je po všem"
+                "title": "Je po všem",
+                "children": []
               },
               {
                 "filename": "ludwig_027.md",
@@ -380,22 +381,22 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Elegie usmíření"
+                "title": "Elegie usmíření",
+                "children": []
               }
-            ],
-            "title": "LUDWIG"
+            ]
           },
           {
             "filename": "ludwig_028.md",
             "xhtml": "ludwig_028.html",
             "id": 27,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ZJEVY",
             "children": [
               {
                 "filename": "ludwig_029.md",
@@ -407,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Setkání 3.3.97"
+                "title": "Setkání 3.3.97",
+                "children": []
               },
               {
                 "filename": "ludwig_030.md",
@@ -420,8 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Ta žena má příliš velká ústa)"
+                "title": "(Ta žena má příliš velká ústa)",
+                "children": []
               },
               {
                 "filename": "ludwig_031.md",
@@ -433,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Okamžik"
+                "title": "Okamžik",
+                "children": []
               },
               {
                 "filename": "ludwig_032.md",
@@ -446,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Po večeři"
+                "title": "Po večeři",
+                "children": []
               },
               {
                 "filename": "ludwig_033.md",
@@ -459,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jitro"
+                "title": "Jitro",
+                "children": []
               },
               {
                 "filename": "ludwig_034.md",
@@ -472,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Noční show"
+                "title": "Noční show",
+                "children": []
               },
               {
                 "filename": "ludwig_035.md",
@@ -485,22 +486,22 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žolík"
+                "title": "Žolík",
+                "children": []
               }
-            ],
-            "title": "ZJEVY"
+            ]
           },
           {
             "filename": "ludwig_036.md",
             "xhtml": "ludwig_036.html",
             "id": 35,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "UBLEDLÁ",
             "children": [
               {
                 "filename": "ludwig_037.md",
@@ -512,8 +513,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ústřičná"
+                "title": "Ústřičná",
+                "children": []
               },
               {
                 "filename": "ludwig_038.md",
@@ -525,8 +526,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sémě"
+                "title": "Sémě",
+                "children": []
               },
               {
                 "filename": "ludwig_039.md",
@@ -538,8 +539,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Svitky"
+                "title": "Svitky",
+                "children": []
               },
               {
                 "filename": "ludwig_040.md",
@@ -551,6 +552,7 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
+                "title": "Jezero",
                 "children": [
                   {
                     "filename": "ludwig_041.md",
@@ -562,7 +564,8 @@
                     "hungry": false,
                     "devoured": false,
                     "hiddenTitle": false,
-                    "children": []
+                    "children": [],
+                    "title": "II"
                   },
                   {
                     "filename": "ludwig_042.md",
@@ -574,10 +577,10 @@
                     "hungry": false,
                     "devoured": false,
                     "hiddenTitle": false,
-                    "children": []
+                    "children": [],
+                    "title": "III"
                   }
-                ],
-                "title": "Jezero"
+                ]
               },
               {
                 "filename": "ludwig_043.md",
@@ -589,8 +592,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pocta Sfinze"
+                "title": "Pocta Sfinze",
+                "children": []
               },
               {
                 "filename": "ludwig_044.md",
@@ -602,8 +605,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bérénice Abbott"
+                "title": "Bérénice Abbott",
+                "children": []
               },
               {
                 "filename": "ludwig_045.md",
@@ -615,8 +618,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Za ledovým sklem padají osamělé vločky)"
+                "title": "(Za ledovým sklem padají osamělé vločky)",
+                "children": []
               },
               {
                 "filename": "ludwig_046.md",
@@ -628,8 +631,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rybí blues"
+                "title": "Rybí blues",
+                "children": []
               },
               {
                 "filename": "ludwig_047.md",
@@ -641,8 +644,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sfinga"
+                "title": "Sfinga",
+                "children": []
               },
               {
                 "filename": "ludwig_048.md",
@@ -654,8 +657,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Studny"
+                "title": "Studny",
+                "children": []
               },
               {
                 "filename": "ludwig_049.md",
@@ -667,22 +670,22 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jsi černá"
+                "title": "Jsi černá",
+                "children": []
               }
-            ],
-            "title": "UBLEDLÁ"
+            ]
           },
           {
             "filename": "ludwig_050.md",
             "xhtml": "ludwig_050.html",
             "id": 49,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "HAIKU",
             "children": [
               {
                 "filename": "ludwig_051.md",
@@ -694,8 +697,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Ode dna šálku)"
+                "title": "(Ode dna šálku)",
+                "children": []
               },
               {
                 "filename": "ludwig_052.md",
@@ -707,8 +710,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Blíží se večer)"
+                "title": "(Blíží se večer)",
+                "children": []
               },
               {
                 "filename": "ludwig_053.md",
@@ -720,8 +723,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Vlak duní nocí)"
+                "title": "(Vlak duní nocí)",
+                "children": []
               },
               {
                 "filename": "ludwig_054.md",
@@ -733,8 +736,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Milostné haiku"
+                "title": "Milostné haiku",
+                "children": []
               },
               {
                 "filename": "ludwig_055.md",
@@ -746,8 +749,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kuřácké haiku"
+                "title": "Kuřácké haiku",
+                "children": []
               },
               {
                 "filename": "ludwig_056.md",
@@ -759,8 +762,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Sotva si ještě vzpomeneš)"
+                "title": "(Sotva si ještě vzpomeneš)",
+                "children": []
               },
               {
                 "filename": "ludwig_057.md",
@@ -772,8 +775,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(V cinkotu číší)"
+                "title": "(V cinkotu číší)",
+                "children": []
               },
               {
                 "filename": "ludwig_058.md",
@@ -785,8 +788,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zimní haiku"
+                "title": "Zimní haiku",
+                "children": []
               },
               {
                 "filename": "ludwig_059.md",
@@ -798,8 +801,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Haiku k podpírání"
+                "title": "Haiku k podpírání",
+                "children": []
               },
               {
                 "filename": "ludwig_060.md",
@@ -811,8 +814,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Zestárlý a sám)"
+                "title": "(Zestárlý a sám)",
+                "children": []
               },
               {
                 "filename": "ludwig_061.md",
@@ -824,8 +827,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Porozechvělý"
+                "title": "Porozechvělý",
+                "children": []
               },
               {
                 "filename": "ludwig_062.md",
@@ -837,22 +840,22 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Tak naposledy)"
+                "title": "(Tak naposledy)",
+                "children": []
               }
-            ],
-            "title": "HAIKU"
+            ]
           },
           {
             "filename": "ludwig_063.md",
             "xhtml": "ludwig_063.html",
             "id": 62,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "BŘEH",
             "children": [
               {
                 "filename": "ludwig_064.md",
@@ -864,8 +867,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Bojím se že nikdo nepřijde a nezazvoní)"
+                "title": "(Bojím se že nikdo nepřijde a nezazvoní)",
+                "children": []
               },
               {
                 "filename": "ludwig_065.md",
@@ -877,8 +880,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Trhavě sune se jako vlk sněhem)"
+                "title": "(Trhavě sune se jako vlk sněhem)",
+                "children": []
               },
               {
                 "filename": "ludwig_066.md",
@@ -890,8 +893,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Mračna"
+                "title": "Mračna",
+                "children": []
               },
               {
                 "filename": "ludwig_067.md",
@@ -903,8 +906,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Je léto)"
+                "title": "(Je léto)",
+                "children": []
               },
               {
                 "filename": "ludwig_068.md",
@@ -916,8 +919,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Na břehu pod nímž se odrazy těl)"
+                "title": "(Na břehu pod nímž se odrazy těl)",
+                "children": []
               },
               {
                 "filename": "ludwig_069.md",
@@ -929,22 +932,22 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pozvolna"
+                "title": "Pozvolna",
+                "children": []
               }
-            ],
-            "title": "BŘEH"
+            ]
           },
           {
             "filename": "ludwig_070.md",
             "xhtml": "ludwig_070.html",
             "id": 69,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Z ÚSTRANÍ DO ZÁVĚTŘÍ",
             "children": [
               {
                 "filename": "ludwig_071.md",
@@ -956,8 +959,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hrob"
+                "title": "Hrob",
+                "children": []
               },
               {
                 "filename": "ludwig_072.md",
@@ -969,8 +972,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Cirk"
+                "title": "Cirk",
+                "children": []
               },
               {
                 "filename": "ludwig_073.md",
@@ -982,8 +985,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Podzim"
+                "title": "Podzim",
+                "children": []
               },
               {
                 "filename": "ludwig_074.md",
@@ -995,8 +998,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Z města"
+                "title": "Z města",
+                "children": []
               },
               {
                 "filename": "ludwig_075.md",
@@ -1008,8 +1011,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Se studem"
+                "title": "Se studem",
+                "children": []
               },
               {
                 "filename": "ludwig_076.md",
@@ -1021,11 +1024,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "(Vychází slunce maje pod očima skoby)"
+                "title": "(Vychází slunce maje pod očima skoby)",
+                "children": []
               }
-            ],
-            "title": "Z ÚSTRANÍ DO ZÁVĚTŘÍ"
+            ]
           },
           {
             "filename": "ludwig_077.md",
@@ -1593,6 +1595,6 @@
       "user": "books-are-next",
       "repo": "rudcenkova-ludwig-new"
     },
-    "generatedAt": 1657875988863
+    "generatedAt": 1657876535888
   }
 }

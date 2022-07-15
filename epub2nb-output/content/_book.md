@@ -161,7 +161,7 @@ tocBase:
           - link: ludwig_027.html
             title: Elegie usmíření
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: ludwig_028.html
         title: ZJEVY
         hiddenTitle: false
@@ -204,7 +204,13 @@ tocBase:
           - link: ludwig_040.html
             title: Jezero
             hiddenTitle: false
-            children: []
+            children:
+              - link: ludwig_041.html
+                title: II
+                hiddenTitle: false
+              - link: ludwig_042.html
+                title: III
+                hiddenTitle: false
             listType: plain
           - link: ludwig_043.html
             title: Pocta Sfinze
