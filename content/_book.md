@@ -51,8 +51,6 @@ readingOrder:
   - ludwig_038.html
   - ludwig_039.html
   - ludwig_040.html
-  - ludwig_041.html
-  - ludwig_042.html
   - ludwig_043.html
   - ludwig_044.html
   - ludwig_045.html
@@ -204,14 +202,12 @@ tocBase:
           - link: ludwig_040.html
             title: Jezero
             hiddenTitle: false
-            children:
-              - link: ludwig_041.html
-                title: II
-                hiddenTitle: false
-              - link: ludwig_042.html
-                title: III
-                hiddenTitle: false
-            listType: plain
+          - link: ludwig_041.html
+            title: II
+            hiddenTitle: false
+          - link: ludwig_042.html
+            title: III
+            hiddenTitle: false
           - link: ludwig_043.html
             title: Pocta Sfinze
             hiddenTitle: false
