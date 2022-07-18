@@ -202,12 +202,6 @@ tocBase:
           - link: ludwig_040.html
             title: Jezero
             hiddenTitle: false
-          - link: ludwig_041.html
-            title: II
-            hiddenTitle: false
-          - link: ludwig_042.html
-            title: III
-            hiddenTitle: false
           - link: ludwig_043.html
             title: Pocta Sfinze
             hiddenTitle: false
