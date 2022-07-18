@@ -549,38 +549,37 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Jezero",
-                "children": [
-                  {
-                    "filename": "ludwig_041.md",
-                    "xhtml": "ludwig_041.html",
-                    "id": 40,
-                    "role": "chapter",
-                    "listType": "plain",
-                    "inToc": true,
-                    "hungry": false,
-                    "devoured": false,
-                    "hiddenTitle": false,
-                    "children": [],
-                    "title": "II"
-                  },
-                  {
-                    "filename": "ludwig_042.md",
-                    "xhtml": "ludwig_042.html",
-                    "id": 41,
-                    "role": "chapter",
-                    "listType": "plain",
-                    "inToc": true,
-                    "hungry": false,
-                    "devoured": false,
-                    "hiddenTitle": false,
-                    "children": [],
-                    "title": "III"
-                  }
-                ]
+                "children": []
+              },
+              {
+                "filename": "ludwig_041.md",
+                "xhtml": "ludwig_041.html",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": true,
+                "hiddenTitle": false,
+                "title": "II",
+                "children": []
+              },
+              {
+                "filename": "ludwig_042.md",
+                "xhtml": "ludwig_042.html",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": true,
+                "hiddenTitle": false,
+                "title": "III",
+                "children": []
               },
               {
                 "filename": "ludwig_043.md",
@@ -589,7 +588,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Pocta Sfinze",
@@ -602,7 +601,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Bérénice Abbott",
@@ -615,7 +614,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": true,
                 "title": "(Za ledovým sklem padají osamělé vločky)",
@@ -628,7 +627,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Rybí blues",
@@ -641,7 +640,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Sfinga",
@@ -654,7 +653,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Studny",
@@ -667,7 +666,7 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": false,
+                "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
                 "title": "Jsi černá",
@@ -1041,7 +1040,8 @@
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -1595,6 +1595,6 @@
       "user": "books-are-next",
       "repo": "rudcenkova-ludwig-new"
     },
-    "generatedAt": 1657876535888
+    "generatedAt": 1658128314868
   }
 }

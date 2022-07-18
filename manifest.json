@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rudcenkova-ludwig-2a670cb",
-  "revision": "2a670cb",
+  "identifier": "rudcenkova-ludwig-fa854d5",
+  "revision": "fa854d5",
   "readingOrder": [
     "promo.html",
     "ludwig_005.html",
@@ -48,8 +48,6 @@
     "ludwig_038.html",
     "ludwig_039.html",
     "ludwig_040.html",
-    "ludwig_041.html",
-    "ludwig_042.html",
     "ludwig_043.html",
     "ludwig_044.html",
     "ludwig_045.html",
@@ -87,8 +85,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jul 15 2022 09:16:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657876618737
+    "date": "Mon Jul 18 2022 07:13:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658128406181
   },
   "documents": [
     {
@@ -806,13 +804,13 @@
     {
       "title": "Jezero",
       "file": "ludwig_040.html",
-      "words": 39,
-      "chars": 195,
-      "ideas": 8,
+      "words": 143,
+      "chars": 755,
+      "ideas": 25,
       "role": "chapter",
       "order": 36,
       "prev": "ludwig_039.html",
-      "next": "ludwig_041.html",
+      "next": "ludwig_043.html",
       "toc": [
         {
           "index": 0,
@@ -826,58 +824,16 @@
               "name": "I",
               "id": "i",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ludwig",
-      "file": "ludwig_041.html",
-      "words": 28,
-      "chars": 156,
-      "ideas": 6,
-      "role": "chapter",
-      "order": 37,
-      "prev": "ludwig_040.html",
-      "next": "ludwig_042.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 2,
               "level": 2,
               "name": "II",
               "id": "ii",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ludwig",
-      "file": "ludwig_042.html",
-      "words": 76,
-      "chars": 404,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 38,
-      "prev": "ludwig_041.html",
-      "next": "ludwig_043.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 3,
               "level": 2,
               "name": "III",
               "id": "iii",
@@ -894,8 +850,8 @@
       "chars": 279,
       "ideas": 13,
       "role": "chapter",
-      "order": 39,
-      "prev": "ludwig_042.html",
+      "order": 37,
+      "prev": "ludwig_040.html",
       "next": "ludwig_044.html",
       "toc": [
         {
@@ -914,7 +870,7 @@
       "chars": 193,
       "ideas": 10,
       "role": "chapter",
-      "order": 40,
+      "order": 38,
       "prev": "ludwig_043.html",
       "next": "ludwig_045.html",
       "toc": [
@@ -934,7 +890,7 @@
       "chars": 254,
       "ideas": 17,
       "role": "chapter",
-      "order": 41,
+      "order": 39,
       "prev": "ludwig_044.html",
       "next": "ludwig_046.html",
       "toc": [
@@ -954,7 +910,7 @@
       "chars": 735,
       "ideas": 31,
       "role": "chapter",
-      "order": 42,
+      "order": 40,
       "prev": "ludwig_045.html",
       "next": "ludwig_047.html",
       "toc": [
@@ -974,7 +930,7 @@
       "chars": 315,
       "ideas": 12,
       "role": "chapter",
-      "order": 43,
+      "order": 41,
       "prev": "ludwig_046.html",
       "next": "ludwig_048.html",
       "toc": [
@@ -994,7 +950,7 @@
       "chars": 177,
       "ideas": 10,
       "role": "chapter",
-      "order": 44,
+      "order": 42,
       "prev": "ludwig_047.html",
       "next": "ludwig_049.html",
       "toc": [
@@ -1014,7 +970,7 @@
       "chars": 1012,
       "ideas": 45,
       "role": "chapter",
-      "order": 45,
+      "order": 43,
       "prev": "ludwig_048.html",
       "next": "ludwig_050.html",
       "toc": [
@@ -1034,7 +990,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 46,
+      "order": 44,
       "prev": "ludwig_049.html",
       "next": "ludwig_051.html",
       "toc": [
@@ -1054,7 +1010,7 @@
       "chars": 57,
       "ideas": 4,
       "role": "chapter",
-      "order": 47,
+      "order": 45,
       "prev": "ludwig_050.html",
       "next": "ludwig_052.html",
       "toc": [
@@ -1074,7 +1030,7 @@
       "chars": 55,
       "ideas": 4,
       "role": "chapter",
-      "order": 48,
+      "order": 46,
       "prev": "ludwig_051.html",
       "next": "ludwig_053.html",
       "toc": [
@@ -1094,7 +1050,7 @@
       "chars": 52,
       "ideas": 4,
       "role": "chapter",
-      "order": 49,
+      "order": 47,
       "prev": "ludwig_052.html",
       "next": "ludwig_054.html",
       "toc": [
@@ -1114,7 +1070,7 @@
       "chars": 66,
       "ideas": 4,
       "role": "chapter",
-      "order": 50,
+      "order": 48,
       "prev": "ludwig_053.html",
       "next": "ludwig_055.html",
       "toc": [
@@ -1134,7 +1090,7 @@
       "chars": 62,
       "ideas": 4,
       "role": "chapter",
-      "order": 51,
+      "order": 49,
       "prev": "ludwig_054.html",
       "next": "ludwig_056.html",
       "toc": [
@@ -1154,7 +1110,7 @@
       "chars": 60,
       "ideas": 4,
       "role": "chapter",
-      "order": 52,
+      "order": 50,
       "prev": "ludwig_055.html",
       "next": "ludwig_057.html",
       "toc": [
@@ -1174,7 +1130,7 @@
       "chars": 54,
       "ideas": 4,
       "role": "chapter",
-      "order": 53,
+      "order": 51,
       "prev": "ludwig_056.html",
       "next": "ludwig_058.html",
       "toc": [
@@ -1194,7 +1150,7 @@
       "chars": 65,
       "ideas": 4,
       "role": "chapter",
-      "order": 54,
+      "order": 52,
       "prev": "ludwig_057.html",
       "next": "ludwig_059.html",
       "toc": [
@@ -1214,7 +1170,7 @@
       "chars": 69,
       "ideas": 4,
       "role": "chapter",
-      "order": 55,
+      "order": 53,
       "prev": "ludwig_058.html",
       "next": "ludwig_060.html",
       "toc": [
@@ -1234,7 +1190,7 @@
       "chars": 52,
       "ideas": 4,
       "role": "chapter",
-      "order": 56,
+      "order": 54,
       "prev": "ludwig_059.html",
       "next": "ludwig_061.html",
       "toc": [
@@ -1254,7 +1210,7 @@
       "chars": 64,
       "ideas": 4,
       "role": "chapter",
-      "order": 57,
+      "order": 55,
       "prev": "ludwig_060.html",
       "next": "ludwig_062.html",
       "toc": [
@@ -1274,7 +1230,7 @@
       "chars": 49,
       "ideas": 4,
       "role": "chapter",
-      "order": 58,
+      "order": 56,
       "prev": "ludwig_061.html",
       "next": "ludwig_063.html",
       "toc": [
@@ -1294,7 +1250,7 @@
       "chars": 4,
       "ideas": 1,
       "role": "chapter",
-      "order": 59,
+      "order": 57,
       "prev": "ludwig_062.html",
       "next": "ludwig_064.html",
       "toc": [
@@ -1314,7 +1270,7 @@
       "chars": 181,
       "ideas": 12,
       "role": "chapter",
-      "order": 60,
+      "order": 58,
       "prev": "ludwig_063.html",
       "next": "ludwig_065.html",
       "toc": [
@@ -1334,7 +1290,7 @@
       "chars": 246,
       "ideas": 13,
       "role": "chapter",
-      "order": 61,
+      "order": 59,
       "prev": "ludwig_064.html",
       "next": "ludwig_066.html",
       "toc": [
@@ -1354,7 +1310,7 @@
       "chars": 193,
       "ideas": 8,
       "role": "chapter",
-      "order": 62,
+      "order": 60,
       "prev": "ludwig_065.html",
       "next": "ludwig_067.html",
       "toc": [
@@ -1374,7 +1330,7 @@
       "chars": 103,
       "ideas": 6,
       "role": "chapter",
-      "order": 63,
+      "order": 61,
       "prev": "ludwig_066.html",
       "next": "ludwig_068.html",
       "toc": [
@@ -1394,7 +1350,7 @@
       "chars": 93,
       "ideas": 5,
       "role": "chapter",
-      "order": 64,
+      "order": 62,
       "prev": "ludwig_067.html",
       "next": "ludwig_069.html",
       "toc": [
@@ -1414,7 +1370,7 @@
       "chars": 182,
       "ideas": 7,
       "role": "chapter",
-      "order": 65,
+      "order": 63,
       "prev": "ludwig_068.html",
       "next": "ludwig_070.html",
       "toc": [
@@ -1434,7 +1390,7 @@
       "chars": 20,
       "ideas": 1,
       "role": "chapter",
-      "order": 66,
+      "order": 64,
       "prev": "ludwig_069.html",
       "next": "ludwig_071.html",
       "toc": [
@@ -1454,7 +1410,7 @@
       "chars": 240,
       "ideas": 13,
       "role": "chapter",
-      "order": 67,
+      "order": 65,
       "prev": "ludwig_070.html",
       "next": "ludwig_072.html",
       "toc": [
@@ -1474,7 +1430,7 @@
       "chars": 203,
       "ideas": 14,
       "role": "chapter",
-      "order": 68,
+      "order": 66,
       "prev": "ludwig_071.html",
       "next": "ludwig_073.html",
       "toc": [
@@ -1494,7 +1450,7 @@
       "chars": 118,
       "ideas": 7,
       "role": "chapter",
-      "order": 69,
+      "order": 67,
       "prev": "ludwig_072.html",
       "next": "ludwig_074.html",
       "toc": [
@@ -1514,7 +1470,7 @@
       "chars": 450,
       "ideas": 24,
       "role": "chapter",
-      "order": 70,
+      "order": 68,
       "prev": "ludwig_073.html",
       "next": "ludwig_075.html",
       "toc": [
@@ -1534,7 +1490,7 @@
       "chars": 535,
       "ideas": 29,
       "role": "chapter",
-      "order": 71,
+      "order": 69,
       "prev": "ludwig_074.html",
       "next": "ludwig_076.html",
       "toc": [
@@ -1554,7 +1510,7 @@
       "chars": 179,
       "ideas": 6,
       "role": "chapter",
-      "order": 72,
+      "order": 70,
       "prev": "ludwig_075.html",
       "next": "about.html",
       "toc": [
