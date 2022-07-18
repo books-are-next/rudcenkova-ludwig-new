@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "ludwig_001.md",
@@ -565,7 +566,7 @@
                 "hungry": false,
                 "devoured": true,
                 "hiddenTitle": false,
-                "title": "II",
+                "title": "",
                 "children": []
               },
               {
@@ -578,7 +579,7 @@
                 "hungry": false,
                 "devoured": true,
                 "hiddenTitle": false,
-                "title": "III",
+                "title": "",
                 "children": []
               },
               {
@@ -1040,8 +1041,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -1595,6 +1595,6 @@
       "user": "books-are-next",
       "repo": "rudcenkova-ludwig-new"
     },
-    "generatedAt": 1658128314868
+    "generatedAt": 1658128663388
   }
 }
