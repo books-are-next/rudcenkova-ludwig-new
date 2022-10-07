@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rudcenkova-ludwig-5cedcb1",
-  "revision": "5cedcb1",
+  "identifier": "rudcenkova-ludwig-bccc8f7",
+  "revision": "bccc8f7",
   "readingOrder": [
     "promo.html",
     "ludwig_005.html",
@@ -85,8 +85,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:03:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924598365
+    "date": "Fri Oct 07 2022 14:10:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151851461
   },
   "documents": [
     {
