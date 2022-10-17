@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rudcenkova-ludwig-3cdba40",
-  "revision": "3cdba40",
+  "identifier": "rudcenkova-ludwig-d32d19d",
+  "revision": "d32d19d",
   "readingOrder": [
     "promo.html",
     "ludwig_005.html",
@@ -85,8 +85,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:02:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417778583
+    "date": "Mon Oct 17 2022 18:13:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666030423328
   },
   "documents": [
     {
@@ -1526,9 +1526,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 133,
-      "chars": 896,
-      "ideas": 13,
+      "words": 137,
+      "chars": 933,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "ludwig_076.html",
@@ -1546,9 +1546,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3704,
-      "chars": 20362,
-      "ideas": 877
+      "words": 3708,
+      "chars": 20399,
+      "ideas": 878
     },
     "chapters": {
       "words": 3566,

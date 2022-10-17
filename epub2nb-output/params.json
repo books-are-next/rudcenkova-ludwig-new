@@ -9,7 +9,8 @@
       "modified": "2019-01-30T00:00:00.000Z",
       "contentType": "poetry",
       "publisherShort": "mkp",
-      "edition": "poezie"
+      "edition": "poezie",
+      "isbn": "978-80-274-2841-0"
     },
     "elements": {
       "title": "mlpuroven1cast mlpuroven2basne",
@@ -1595,6 +1596,6 @@
       "user": "books-are-next",
       "repo": "rudcenkova-ludwig-new"
     },
-    "generatedAt": 1665416400394
+    "generatedAt": 1666030335765
   }
 }

@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: poezie
+  isbn: 978-80-274-2841-0
 readingOrder:
   - promo.html
   - ludwig_005.html
